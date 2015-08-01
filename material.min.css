@@ -3388,7 +3388,7 @@ input.mdl-button[type="submit"] {
 	display:block;
 	position:relative;
 	font-family:"Roboto","Helvetica","Arial",sans-serif;
-	font-size:20px;
+	font-size:40px;
 	line-height:1;
 	letter-spacing:.02em;
 	font-weight:400;
@@ -3676,9 +3676,9 @@ input.mdl-button[type="submit"] {
 	-webkit-align-items:center;
 	-ms-flex-align:center;
 	align-items:center;
-	height:64px;
-	margin:0;
-	padding:0 40px 0 80px
+	height:124px;
+	margin:40px 0px 0px 80px;
+	padding:40px 40px 0 80px
 }
 @media screen and (max-width:1024px) {
 	.mdl-layout__header-row {

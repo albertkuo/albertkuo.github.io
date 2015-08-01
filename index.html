@@ -61,29 +61,45 @@
   </head>
 
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-        </div>
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-          <h3 style="color:#E6F0FA; text-align: right;">Albert Kuo</h3>
+    <div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button mdl-layout--fixed-tabs">
+      <header class="mdl-layout__header mdl-layout__header--waterfall mdl-color--primary">
+        <div class="mdl-layout__header-row">
+          <!-- Title -->
+
+          <span class="mdl-layout-title">Albert Kuo</span>
+          <div class="mdl-layout-spacer"></div>
+          <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+                      mdl-textfield--floating-label mdl-textfield--align-right">
+            <label class="mdl-button mdl-js-button mdl-button--icon"
+                   for="waterfall-exp">
+              <i class="material-icons">search</i>
+            </label>
+            <div class="mdl-textfield__expandable-holder">
+              <input class="mdl-textfield__input" type="text" name="sample"
+                     id="waterfall-exp" />
+            </div>
+          </div>
         </div>
 
-        <!-- Tab Bar -->
-        <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
-          <a href="#projects" class="mdl-layout__tab">Projects</a>
-          <a href="#about" class="mdl-layout__tab">About Me</a>
 
-          <!-- Button -->
-          <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
-            <i class="material-icons" role="presentation">add</i>
-            <span class="visuallyhidden">Add</span>
-          </button>
+          <!-- Tab Bar -->
+          <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
+            <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
+            <a href="#projects" class="mdl-layout__tab">Projects</a>
+            <a href="#about" class="mdl-layout__tab">About Me</a>
 
-        </div>
+            <!-- Button -->
+            <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
+              <i class="material-icons" role="presentation">add</i>
+              <span class="visuallyhidden">Add</span>
+            </button>
+          </div>
+
       </header>
+
+
       <main class="mdl-layout__content">
+
 
       	<!--Overview Tab-->
         <div class="mdl-layout__tab-panel is-active" id="overview">
@@ -129,6 +145,14 @@
 	            </div>
 	          </section>
 
+
+              <h5 id="lorem1">Lorem ipsum dolor sit amet</h5>
+              Excepteur et pariatur officia veniam anim culpa cupidatat consequat ad velit culpa est non.
+              <ul>
+                <li>Nisi qui nisi duis commodo duis reprehenderit consequat velit aliquip.</li>
+                <li>Dolor consectetur incididunt in ipsum laborum non et irure pariatur excepteur anim occaecat officia sint.</li>
+                <li>Lorem labore proident officia excepteur do.</li>
+              </ul>
 
               <h5 id="lorem1">Lorem ipsum dolor sit amet</h5>
               Excepteur et pariatur officia veniam anim culpa cupidatat consequat ad velit culpa est non.
