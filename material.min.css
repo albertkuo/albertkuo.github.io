@@ -2444,7 +2444,7 @@ input.mdl-button[type="submit"] {
 	-webkit-align-items:center;
 	-ms-flex-align:center;
 	align-items:center;
-	color:#000;
+	color:#fff;
 	display:block;
 	display:-webkit-box;
 	display:-webkit-flex;
@@ -2462,6 +2462,8 @@ input.mdl-button[type="submit"] {
 	-ms-transform-origin:165px 56px;
 	transform-origin:165px 56px;
 	box-sizing:border-box
+	height: 176px;
+	background: url('images/blue-scheme.jpg') top / cover;
 }
 .mdl-card__title.mdl-card--border {
 	border-bottom:1px solid rgba(0,0,0,.1)
@@ -2520,6 +2522,22 @@ input.mdl-button[type="submit"] {
 	right:16px;
 	top:16px
 }
+
+  .demo-card-image.mdl-card {
+    width: 256px;
+    height: 456px;
+    background: url('images/me.jpg') center / cover;
+  }
+  .demo-card-image > .mdl-card__actions {
+    height: 52px;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.2);
+  }
+  .demo-card-image__filename {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+  }
 .mdl-checkbox {
 	position:relative;
 	z-index:1;
