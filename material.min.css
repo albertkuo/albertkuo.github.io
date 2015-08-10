@@ -18,8 +18,50 @@ hr {
 	margin:1em 0;
 	padding:0
 }
+div {
+	box-sizing: border-box;
+}
+.flexcontainer {
+	display: -webkit-flex;
+	display: flex;
+	margin: 20px;
+}
 audio,canvas,img,svg,video {
 	vertical-align:middle
+}
+.icon {
+	background: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 10px solid #ccc;
+	border-radius: 50%;
+	color: black;
+	display: block;
+	font-size: 100%;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: none;
+	margin: auto;
+}
+.icon .text{
+	display:none;
+}	
+.icon--github{
+	background-image: url("images/github.png");
+}
+.icon:hover {
+	background: #0066cc;
+	border: 10px solid #3399FF;
+	color: #fff;
+	text-decoration: none;
+}
+.icon--github:hover {
+	background: black;
+}
+.icon:hover .text{
+	display: inline;
 }
 fieldset {
 	border:0;
@@ -200,23 +242,11 @@ p {
 	margin:0 0 16px
 }
 a {
-	color:#ff4081;
+	color:#FF9933;
 	font-weight:500;
+	display: inline;
 }
-span {
-  position:absolute; 
-  width:100%;
-  height:100%;
-  top:0;
-  left: 0;
 
-  /* edit: added z-index */
-  z-index: 1;
-
-  /* edit: fixes overlap error in IE7/8, 
-     make sure you have an empty gif */
-  background-image: url('empty.gif');
-}
 blockquote {
 	font-family:"Roboto","Helvetica","Arial",sans-serif;
 	position:relative;
@@ -2900,7 +2930,7 @@ input.mdl-button[type="submit"] {
 }
 .mdl-mega-footer--bottom-section,.mdl-mega-footer__bottom-section {
 	padding-top:16px;
-	margin-bottom:16px
+	margin-bottom:16px;
 }
 .mdl-logo {
 	margin-bottom:16px;
@@ -5149,6 +5179,21 @@ _:-ms-input-placeholder,:root .mdl-slider.mdl-slider.is-upgraded {
 }
 .mdl-shadow--16dp {
 	box-shadow:0 16px 24px 2px rgba(0,0,0,.14),0 6px 30px 5px rgba(0,0,0,.12),0 8px 10px -5px rgba(0,0,0,.2)
+}
+.icon-grid{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-flex-flow:row wrap;
+	-ms-flex-flow:row wrap;
+	flex-flow:row wrap;
+	margin:0 auto;
+	-webkit-box-align:stretch;
+	-webkit-align-items:stretch;
+	-ms-flex-align:stretch;
+	align-items:stretch;
+	justify-content:center;
 }
 .mdl-grid {
 	display:-webkit-box;
