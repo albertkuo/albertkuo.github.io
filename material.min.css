@@ -51,6 +51,12 @@ audio,canvas,img,svg,video {
 .icon--github{
 	background-image: url("images/github.png");
 }
+.icon--linkedin{
+	background-image: url("images/linkedin.png");
+}
+.icon--kaggle{
+	background-image: url("images/kaggle.png");
+}
 .icon--project{
 	width: 40%;
 	height: 0;
@@ -60,13 +66,19 @@ audio,canvas,img,svg,video {
 	font-size: 1.0vw;
 }
 .icon:hover {
-	background: #0066cc;
-	border: 10px solid #3399FF;
+	background: #2196f3;
+	border: 10px solid #BBDEFB;
 	color: #fff;
 	text-decoration: none;
 }
 .icon--github:hover {
-	background: black;
+	background: #263238;
+}
+.icon--linkedin:hover {
+	background: #0277BD;
+}
+.icon--kaggle:hover{
+	background: #03A9F4;
 }
 .icon:hover .text{
 	display: inline;
@@ -2132,13 +2144,13 @@ ul,ol {
 	color:#fff !important
 }
 .mdl-color--primary {
-	background-color:#0066cc !important
+	background-color:#ECEFF1 !important
 }
 .mdl-color--primary-contrast {
 	background-color:#fff !important
 }
 .mdl-color--primary-dark {
-	background-color:#0052A3 !important
+	background-color:#1565C0 !important
 }
 .mdl-color--accent {
 	background-color:#3399FF !important
@@ -2783,6 +2795,10 @@ input.mdl-button[type="submit"] {
 	padding:16px 40px;
 	color:#9e9e9e;
 	background-color:#424242
+}
+.mdl-mega-footer--top-section {
+	text-align: center;
+	font-style: italic;
 }
 .mdl-mega-footer--top-section:after,.mdl-mega-footer--middle-section:after,.mdl-mega-footer--bottom-section:after,.mdl-mega-footer__top-section:after,.mdl-mega-footer__middle-section:after,.mdl-mega-footer__bottom-section:after {
 	content:'';
@@ -3443,7 +3459,7 @@ input.mdl-button[type="submit"] {
 	position:relative;
 	font-family:"Roboto","Helvetica","Arial",sans-serif;
 	font-size:40px;
-	color:#E6F0FA;
+	color: #1565C0;
 	line-height:1;
 	letter-spacing:.02em;
 	font-weight:400;

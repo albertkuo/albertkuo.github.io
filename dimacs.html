@@ -1,0 +1,279 @@
+
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Albert Kuo's personal website">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Albert Kuo @ DIMACS</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="DIMACS">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!--
+    <link rel="canonical" href="http://www.example.com/">
+    -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" href="material.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    dt { 
+      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+      font-weight: bold;
+      font-variant: small-caps;
+      text-align: center;
+      margin: 20px 0px 0px 20px;
+    }
+    dd {
+      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+      text-decoration: none;
+    }
+    </style>
+  </head>
+
+  <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+      <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
+        <div class="mdl-layout__header-row">
+          <a href="http://home.uchicago.edu/~albertkuo/dimacs.html" target="blank" style="text-decoration:none"><span class="mdl-layout-title">DIMACS 2015</span></a>
+          <div class="mdl-layout-spacer"></div>
+
+          <!-- Search icon --> 
+          <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+                      mdl-textfield--floating-label mdl-textfield--align-right">
+            <label class="mdl-button mdl-js-button mdl-button--icon"
+                   for="waterfall-exp">
+              <i class="material-icons">search</i>
+            </label>
+            <div class="mdl-textfield__expandable-holder">
+              <input class="mdl-textfield__input" type="text" name="sample"
+                     id="waterfall-exp" />
+            </div>
+          </div> 
+        </div>
+
+        <!-- Tabs -->
+        <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
+          <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
+          <a href="#projects" class="mdl-layout__tab">Weekly Log</a>
+          <a href="#about" class="mdl-layout__tab">Links</a>
+
+          <!--Button-Fab
+          <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
+            <i class="material-icons">add</i>
+            <span class="visuallyhidden">Add</span>
+          </button>-->
+
+          <!--Button-->
+          <a href="http://home.uchicago.edu/~albertkuo" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</a>
+
+        </div>
+      </header>
+      <main class="mdl-layout__content">
+
+        <!--Overview Tab-->
+        <div class="mdl-layout__tab-panel is-active" id="overview">
+          <section class="section--center mdl-grid mdl-grid--no-spacing">
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <div class="mdl-card__title">
+                <h2 class="mdl-card__title-text">General Information</h2>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <div style="float:left;">
+                  <img src="http://reu.dimacs.rutgers.edu/2015/pics/AKuo.jpg" style="margin:10px;" height="120px" alt="me">
+                </div>
+                <table>
+                  <dd style="font-size: 20px; padding: 5px"> Albert Kuo </dd>
+                  <tr>
+                  <th>office:</th>
+                  <td>CoRE 434</td>
+                  </tr>
+                  <tr>
+                  <th>school:</th>
+                  <td><a href="http://www.uchicago.edu/">The University of Chicago</a></td>
+                  </tr>
+                  <tr>
+                  <th>e-mail:</th>
+                  <td>albertkuo@uchicago.edu</td>
+                  </tr>
+                  <tr>
+                  <th>project:</th>
+                  <td>Development of machine learning algorithms in biology</td>
+                  </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="mdl-card__actions">
+                <h4>Project Description</h4>
+                <p>This summer, I explored epigenomic data for enhancer prediction. I used hidden Markov models (HMMs), support vector machines (SVMs), and logistic regression to understand the relationships between enhancer marks and implement enhancer prediction. Click the tabs above to view my weekly log and links to my presentation and final report. </p>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <!--Weekly Log Tab-->
+        <div class="mdl-layout__tab-panel" id="projects">
+          <section class="section--center mdl-grid">
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 1</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I met with my mentor to discuss the goals and structure of my project. To prepare for my work this summer, I reviewed linear algebra topics such as singular value decomposition and read about hidden Markov models, principal components analysis, and the expectation-maximization (EM) algorithm. I was also given papers on tensor decomposition methods to read. On Thursday, we had a lab meeting with other professors and their groups to understand the lab work behind some of the data we are using. 
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 2</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I read up on molecular biology, in particular on the relatively recent discovery of enhancer RNAs (eRNAs). I conducted exploratory analysis on four cell lines from the ENCODE project using two datasets. One dataset consisted of enhancer predictions using chromatin marks, i.e. whether a section of a gene is likely to be an enhancer based on histone modifications. The other dataset consisted of eRNA expression in TPM (transcripts per million). The two datasets were compared using various plots.  
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 3</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I conducted Wilcoxon tests to compare the eRNA expression level of weak versus strong enhancers. I also ran Spectacle, which is based on ChromHMM, on one cell line (GM12878) with the additional input of eRNA expression.                 
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 4</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  To further analyze the relationship between histone modifications and eRNA expression in terms of predicting enhancers, I examined the degree to which each chromatin state overlapped with intervals containing the regulatory protein, p300, using different plots. I also looked at the distance to the closest transcription start site (TSS) for the sections in each chromatin state by calculating some statistics and plotting the data.   
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 5</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I read papers on enhancer prediction based on various statistical models. I began implementing a support vector machine (SVM) to predict enhancers.  
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 6</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I ran SVM to predict enhancers using histone marks and eRNA and examined the feature weights. After discussing the results with my mentor, I changed how I selected the negative set from a random sampling to an interval-based selection. I also began reading about multi-view/Naive Bayes classification. I spent the rest of the week preparing for <a href="docs/DIMACS_Presentation.pdf">my presentation</a>. 
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 7</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I ran Spectacle with the additional input of p300 and experimented with different number of states. I read up on feature selection and feature ranking for SVM and L1 and L2 regularization for logistic regression. A particular concern was that correlation between features would lead to misleading feature weights. I ran SVM with principal components and logistic regression for enhancer prediction.   
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 8</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I tuned the penalty parameters for SVM and logistic regression using cross-validation. I finished writing <a href="docs/DIMACS_Final_Report.pdf">my report for DIMACS</a>. I ran logistic regression with the additional feature from sequence data (transcription factor binding sites conserved in the human/mouse/rat alignment). 
+                </div>
+            </div>
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <dt><h2 class="mdl-card__title-text">Week 9</h2></dt>
+                <div class="mdl-card__supporting-text">
+                  I added two more datasets, Enhancer DRM and DNase, as features and replicated my results on 3 other cell types from the ENCODE project. In addition, I looked at two-way interaction factors in logistic regression. Lastly, I compiled all my results from the summer into a report for my mentor.   
+                </div>
+            </div>
+          </section>
+        </div>
+
+        <!--About Me Tab-->
+        <div class="mdl-layout__tab-panel" id="about">
+          <section class="section--center mdl-grid">
+            <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp">
+              <dt>My Presentations</dt>
+                <dd>
+                  <ul>
+                    <li><a href="docs/DIMACS_Presentation.pdf" target="blank">Mid-Program Presentation Slides</a></li>
+                    <li><a href="docs/DIMACS_Final_Report.pdf" target="blank">Final Report</a></li>
+                  </ul>
+                </dd>
+              </div>
+            <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp">
+              <dt>Additional Information</dt>
+                <dd>
+                  <ul>
+                    <li> Program Info: 
+                      <a href="http://dimacs.rutgers.edu/REU/">DIMACS REU</a>
+                    </li>
+                    <li> My mentor:
+                    <a href="https://genfaculty.rutgers.edu/kcchen/home">Dr. Kevin Chen</a>
+                    </li>
+                    <li>My website: 
+                    <a href="http://home.uchicago.edu/~albertkuo/">Albert Kuo</a></li>
+                  </ul>
+                </dd>
+            </div>
+          </section>
+        </div>
+
+
+        <!-- Footer -->
+        <footer class="mdl-mega-footer">
+          <div class="mdl-mega-footer--top-section">
+            Last updated August 2015
+          </div>
+          <div class="mdl-mega-footer--bottom-section">
+            <div class="mdl-logo">
+              More Information
+            </div>
+            <ul class="mdl-mega-footer--link-list">
+              <li><a href="mailto:albertkuo@uchicago.edu">E-mail</a></li>
+              <li><a href="https:github.com/albertkuo/">Github</a></li>
+              <li><a href="#">LinkedIn</a></li>
+              <li><a href="#">Kaggle</a></li>
+            </ul>
+          </div>
+        </footer>
+      </main>
+    </div>
+   
+    <script src="material.min.js"></script>
+  </body>
+</html>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66226304-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
