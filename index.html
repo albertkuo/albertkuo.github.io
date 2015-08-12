@@ -65,7 +65,7 @@
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">Albert Kuo</span>
+          <a href="index.html" style="text-decoration:none"><span class="mdl-layout-title">Albert Kuo</span></a>
           <div class="mdl-layout-spacer"></div>
 
           <!-- Search icon --> 
@@ -86,7 +86,7 @@
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
           <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
           <a href="#projects" class="mdl-layout__tab">Projects</a>
-          <a href="#about" class="mdl-layout__tab">About Me</a>
+          <a href="#about" class="mdl-layout__tab">Personal</a>
 
           <!--Button-Fab
           <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
@@ -110,8 +110,9 @@
                 <h2 class="mdl-card__title-text">Introduction</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                <img src="images/me.jpg" alt="me" align="left" style="width:20%; padding:5px">
-                I am a fourth year undergrad at the University of Chicago majoring in math and statistics. I am currently working on this website, which is why it looks unfinished. Contact me at <a href="mailto:albertkuo@uchicago.edu">albertkuo@uchicago.edu</a>.
+                <p>
+                  <img src="images/me.jpg" class="profilewrap" width="120">
+                I am a fourth year undergrad at the University of Chicago majoring in math and statistics. I am currently working on this website, which is why it looks unfinished. Contact me at <a href="mailto:albertkuo@uchicago.edu">albertkuo@uchicago.edu</a>.</p>
               </div>
               <div class="mdl-card__actions">
                 <a href="#about" class="mdl-button">More about me</a>
@@ -144,7 +145,7 @@
                   </div>
                   <div class="section__text mdl-cell mdl-cell--8-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <h5>DIMACS REU 2015</h5>
-                    I participated in the REU program at DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science). In my summer project, I analyzed epigenomic data and predicted enhancers using machine learning algorithms. Click <a href="http://home.uchicago.edu/~albertkuo/dimacs.html" target="blank">here</a> to read more about my project.
+                    I worked with <a href="https://genfaculty.rutgers.edu/kcchen/home" target="blank">Dr. Kevin Chen</a> in the REU program at DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science). In my summer project, I analyzed epigenomic data and predicted enhancers using machine learning algorithms. Click <a href="http://home.uchicago.edu/~albertkuo/dimacs.html" target="blank">here</a> to read more about my project.
                   </div>
 
                   <div class="section__circle-container mdl-cell mdl-cell--4-col mdl-cell--2-col-tablet mdl-cell--1-col-phone">
@@ -152,7 +153,7 @@
                   </div>
                   <div class="section__text mdl-cell mdl-cell--8-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <h5>SIBS 2014</h5>
-                    I participated in SIBS (Summer Institute for Training in Biostatistics) at the University of Pittsburgh. For my final project, I worked on the Women's Ischemia Syndrome Evaluation (WISE) study and examined whether persistent chest pain is associated with declines in physical work capacity among women. Read my abstract <a href="docs/sibs.pdf" target="blank">here</a>.
+                    I participated in <a href="http://www.publichealth.pitt.edu/biostatistics/research-and-practice/sibs" target="blank">SIBS</a> (Summer Institute for Training in Biostatistics) at the University of Pittsburgh. For my final project, I worked on the Women's Ischemia Syndrome Evaluation (WISE) study and examined whether persistent chest pain is associated with declines in physical work capacity among women. Read my abstract <a href="docs/sibs.pdf" target="blank">here</a>.
                   </div>
                 </section>
 
@@ -172,7 +173,7 @@
                   </div>
                   <div class="section__text mdl-cell mdl-cell--8-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <h5>Flappy Bird</h5>
-                    In 2014, my friend Anthony and I conducted some statistical modeling and analysis of the viral game, <a href="https://en.wikipedia.org/wiki/Flappy_Bird" target="blank">Flappy Bird</a>. We revisited the project in the summer of 2015.
+                    My friend Anthony and I conducted some statistical modeling and analysis of the mobile game, <a href="https://en.wikipedia.org/wiki/Flappy_Bird" target="blank">Flappy Bird</a>, in 2014. We revisited the project in the summer of 2015.
                   </div>
                 </section>
 
@@ -183,27 +184,34 @@
         <!--About Me Tab-->
         <div class="mdl-layout__tab-panel" id="about">
           <section class="section--center mdl-grid mdl-grid--no-spacing">
-            <div class="mdl-cell mdl-cell--12-col">
-              <h4>About Me</h4>
-              
-            <section class="section--footer mdl-color--white mdl-grid">
-              <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col">
-                <div class="mdl-card__supporting-text">
-                  <h4>My Interests</h4>
-                  Here are my interests. 
-                </div>
+            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h5>Hobbies</h5>
+                <p>In my free time, I like to read and write fiction. Last year, I participated in <a href="http://nanowrimo.org/" target="blank">NaNoWriMo</a> (National Novel Writing Month) and my novel can be found <a href="http://www.amazon.com/dp/1505416981/ref=r_soa_w_d" target="blank">here</a>.</p>
+                <figure class="figright">
+                  <a href="images/rossini.jpg"><img src="images/rossini.jpg" width="240"></a>
+                  <figcaption>Rossini, 2014 <br>Oil on canvas</figcaption>
+                </figure>
+                <p> I also like art and drawing and I took a painting class last year. On the right is a painting I did, which was inspired by The Barber of Seville Overture. 
+                </p>
+                <p>In addition, I play the piano and I'm a violinist in the University Chamber Orchestra. Recently, I've explored composing some piano pieces and below is a short sample of something I wrote and played.</p>
+                <audio src="music/sample.m4a" controls> 
+                  <p>Composition 1</p>
+                </audio>
               </div>
+            </div>
 
-              <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col">
-                <div class="mdl-card__supporting-text">
-                  <h4>Fun Projects</h4>
-                  Here is more stuff, blah.
-                </div>
+            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+              <div class="mdl-card__supporting-text">
+                <h5>Travel</h5>
+                <figure class="figleft">
+                  <a href="images/raonic.jpg"><img src="images/raonic.jpg" width="240"></a>
+                  <figcaption>M. Raonic serving against V. Pospisil at Rogers Cup 2013</figcaption>
+                </figure>
+                <p>
+                I enjoy traveling and I've been fortunate to be able to visit many cities around the world. As an avid tennis fan, I visited Montreal, Canada in 2013 to watch a tennis match live for the first time at Rogers Cup. The same summer, I also visited Antigua, Guatemala, where I took Spanish classes at <a href="http://www.spanishacademyantiguena.com/" target="blank">Academia Antigüeña</a> for three weeks.</p>
+                <p> Most recently, I did a study abroad program in Barcelona, Spain at <a href="http://www.upf.edu/en/" target="blank">Universitat Pompeu Fabra</a> for a quarter, where I learned about the history and culture of Spain and the Mediterranean world.</p>
               </div>
-
-            </section>
-
-
             </div>
           </section>
         </div>

@@ -76,28 +76,15 @@
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <div class="mdl-layout__header-row">
-          <a href="http://home.uchicago.edu/~albertkuo/dimacs.html" target="blank" style="text-decoration:none"><span class="mdl-layout-title">DIMACS 2015</span></a>
+          <a href="dimacs.html" style="text-decoration:none"><span class="mdl-layout-title" style="color:#B71C1C">DIMACS 2015</span></a>
           <div class="mdl-layout-spacer"></div>
-
-          <!-- Search icon --> 
-          <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
-                      mdl-textfield--floating-label mdl-textfield--align-right">
-            <label class="mdl-button mdl-js-button mdl-button--icon"
-                   for="waterfall-exp">
-              <i class="material-icons">search</i>
-            </label>
-            <div class="mdl-textfield__expandable-holder">
-              <input class="mdl-textfield__input" type="text" name="sample"
-                     id="waterfall-exp" />
-            </div>
-          </div> 
         </div>
 
         <!-- Tabs -->
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <a href="#overview" class="mdl-layout__tab is-active">Overview</a>
-          <a href="#projects" class="mdl-layout__tab">Weekly Log</a>
-          <a href="#about" class="mdl-layout__tab">Links</a>
+          <a href="#about" class="mdl-layout__tab is-active">About DIMACS</a>
+          <a href="#log" class="mdl-layout__tab">Weekly Log</a>
+          <a href="#links" class="mdl-layout__tab">Links</a>
 
           <!--Button-Fab
           <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
@@ -106,19 +93,16 @@
           </button>-->
 
           <!--Button-->
-          <a href="http://home.uchicago.edu/~albertkuo" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</a>
+          <a href="index.html" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</a>
 
         </div>
       </header>
       <main class="mdl-layout__content">
 
         <!--Overview Tab-->
-        <div class="mdl-layout__tab-panel is-active" id="overview">
+        <div class="mdl-layout__tab-panel is-active" id="about">
           <section class="section--center mdl-grid mdl-grid--no-spacing">
             <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
-              <div class="mdl-card__title">
-                <h2 class="mdl-card__title-text">General Information</h2>
-              </div>
               <div class="mdl-card__supporting-text">
                 <div style="float:left;">
                   <img src="http://reu.dimacs.rutgers.edu/2015/pics/AKuo.jpg" style="margin:10px;" height="120px" alt="me">
@@ -145,15 +129,17 @@
                 </table>
               </div>
               <div class="mdl-card__actions">
+                <h4>Program Description</h4>
+                <p> DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science) was founded as one of 24 Science and Technology Centers funded by the NSF. It hosts a <a href="http://reu.dimacs.rutgers.edu/" target="blank">9-week REU program</a>, which I attended in the summer of 2015.
                 <h4>Project Description</h4>
-                <p>This summer, I explored epigenomic data for enhancer prediction. I used hidden Markov models (HMMs), support vector machines (SVMs), and logistic regression to understand the relationships between enhancer marks and implement enhancer prediction. Click the tabs above to view my weekly log and links to my presentation and final report. </p>
+                <p>I worked with Dr. Kevin Chen and explored epigenomic data for predicting enhancers (distal regulatory DNA sequences). I used hidden Markov models (HMMs), support vector machines (SVMs), and logistic regression to understand the relationships between enhancer marks and implement enhancer prediction. Click the tabs above to view my weekly log and links to my presentation and final report. </p>
               </div>
             </div>
           </section>
         </div>
 
         <!--Weekly Log Tab-->
-        <div class="mdl-layout__tab-panel" id="projects">
+        <div class="mdl-layout__tab-panel" id="log">
           <section class="section--center mdl-grid">
             <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
               <dt><h2 class="mdl-card__title-text">Week 1</h2></dt>
@@ -213,14 +199,15 @@
         </div>
 
         <!--About Me Tab-->
-        <div class="mdl-layout__tab-panel" id="about">
+        <div class="mdl-layout__tab-panel" id="links">
           <section class="section--center mdl-grid">
             <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp">
-              <dt>My Presentations</dt>
+              <dt>My Work</dt>
                 <dd>
                   <ul>
                     <li><a href="docs/DIMACS_Presentation.pdf" target="blank">Mid-Program Presentation Slides</a></li>
                     <li><a href="docs/DIMACS_Final_Report.pdf" target="blank">Final Report</a></li>
+                    <li><a href="https://github.com/albertkuo/DIMACS" target="blank">Github Repository</a></li>
                   </ul>
                 </dd>
               </div>

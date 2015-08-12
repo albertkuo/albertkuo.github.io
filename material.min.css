@@ -83,13 +83,28 @@ audio,canvas,img,svg,video {
 .icon:hover .text{
 	display: inline;
 }
-fieldset {
-	border:0;
-	margin:0;
-	padding:0
+.profilewrap {
+	float: left;
+	margin-right: 10px;
 }
-textarea {
-	resize:vertical
+.figleft, .figright {
+    display: table;
+    border: 2px solid lightgray;
+}
+.figleft{
+	float: left;
+	margin: 0 20px 0 0;
+}
+.figright{
+	float: right;
+	margin: 0 0 0 20px;
+}
+figcaption {
+	display: table-caption;
+	border: 1px dotted lightgray;
+	text-align: center;	
+	font-style: italic;
+	caption-side: bottom;
 }
 .browsehappy {
 	margin:.2em 0;
@@ -3932,7 +3947,7 @@ input.mdl-button[type="submit"] {
 	margin:0;
 	border:none;
 	padding:0 24px;
-	float:left;
+	float:left;	
 	position:relative;
 	display:block;
 	-webkit-box-flex:0;
@@ -3957,7 +3972,6 @@ input.mdl-button[type="submit"] {
 		padding:0 12px
 	}
 }
-
 .mdl-layout__test{
   position: relative;
   color: blue;
