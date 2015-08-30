@@ -30,7 +30,7 @@ audio,canvas,img,svg,video {
 	vertical-align:middle
 }
 .icon {
-	background: white;
+	background: #FBFBFB;
 	background-size: cover;
 	background-repeat: no-repeat;
 	border: 10px solid #ccc;
