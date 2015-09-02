@@ -24,6 +24,7 @@ div {
 .flexcontainer {
 	display: -webkit-flex;
 	display: flex;
+	justify-content: center;
 	margin: 20px;
 }
 audio,canvas,img,svg,video {
@@ -2160,13 +2161,13 @@ ul,ol {
 	color:#fff !important
 }
 .mdl-color--primary {
-	background-color:#ECEFF1 !important
+	background-color:#1565C0 !important
 }
 .mdl-color--primary-contrast {
 	background-color:#fff !important
 }
 .mdl-color--primary-dark {
-	background-color:#1565C0 !important
+	background-color:#11529d !important
 }
 .mdl-color--accent {
 	background-color:#3399FF !important
@@ -2543,7 +2544,6 @@ input.mdl-button[type="submit"] {
 	transform-origin:165px 56px;
 	box-sizing:border-box
 	height: 176px;
-	background: url('images/blue-scheme.jpg') top / cover;
 }
 .mdl-card__title.mdl-card--border {
 	border-bottom:1px solid rgba(0,0,0,.1)
@@ -3475,7 +3475,7 @@ input.mdl-button[type="submit"] {
 	position:relative;
 	font-family:"Roboto","Helvetica","Arial",sans-serif;
 	font-size:40px;
-	color: #1565C0;
+	color: white;
 	line-height:1;
 	letter-spacing:.02em;
 	font-weight:400;
@@ -3657,7 +3657,6 @@ input.mdl-button[type="submit"] {
 	min-height:64px;
 	max-height:1000px;
 	z-index:3;
-	background-color:#5e35b1;
 	color:#fff;
 	box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
 	-webkit-transition-duration:.2s;
@@ -3665,7 +3664,10 @@ input.mdl-button[type="submit"] {
 	-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
 	transition-timing-function:cubic-bezier(.4,0,.2,1);
 	-webkit-transition-property:max-height,box-shadow;
-	transition-property:max-height,box-shadow
+	transition-property:max-height,box-shadow;
+	background-image: url("images/blue-rain.jpg");
+	background-size: cover;
+	background-position: bottom;
 }
 @media screen and (max-width:1024px) {
 	.mdl-layout__header {
@@ -3764,8 +3766,8 @@ input.mdl-button[type="submit"] {
 	-ms-flex-align:center;
 	align-items:center;
 	height:40px;
-	margin:40px 0px 0px 0px;
-	padding:40px 0px 40px 0px
+	margin:100px 0px 0px 0px;
+	padding:100px 0px 40px 0px
 }
 @media screen and (max-width:1024px) {
 	.mdl-layout__header-row {
