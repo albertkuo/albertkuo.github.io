@@ -65,82 +65,58 @@
       text-align: center;
       margin: 20px 0px 0px 20px;
     }
-    dd {
-      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
-      text-decoration: none;
-    }
     </style>
   </head>
 
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-          <a href="dimacs.html" style="text-decoration:none"><span class="mdl-layout-title" style="color:gray">DIMACS 2015</span></a>
-          <div class="mdl-layout-spacer"></div>
-        </div>
-
+      <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary-dark">
         <!-- Tabs -->
-        <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
-          <a href="#about" class="mdl-layout__tab is-active">About DIMACS</a>
-          <a href="#log" class="mdl-layout__tab">Weekly Log</a>
-          <a href="#links" class="mdl-layout__tab">Links</a>
-
-          <!--Button-Fab
-          <button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add">
-            <i class="material-icons">add</i>
-            <span class="visuallyhidden">Add</span>
-          </button>-->
-
-          <!--Button-->
-          <a href="index.html" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</a>
-
+        <div class="mdl-navigation mdl-js-ripple-effect mdl-color--primary-dark">
+          <a href="index.html" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--grey-100">Home</a>
+          <div class="mdl-layout-spacer"></div>
+          <a href="#about" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Intro</a>
+          <a href="#log" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Weekly Log</a>
+          <a href="#links" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Links</a>
         </div>
       </header>
-      <main class="mdl-layout__content">
 
-        <!--Overview Tab-->
-        <div class="mdl-layout__tab-panel is-active" id="about">
+      <main class="mdl-layout__content">
+        <!-- Intro Section -->
+        <div class="dimacs__intro-section" id="about">
+          <div class="mdl-layout-title mdl-typography--text-center" style="padding-top: 150px; padding-bottom: 30px">DIMACS 2015</div>
           <section class="section--center mdl-grid mdl-grid--no-spacing">
-            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp mdl-color--grey-200">
               <div class="mdl-card__supporting-text">
                 <div style="float:left;">
-                  <img src="http://reu.dimacs.rutgers.edu/2015/pics/AKuo.jpg" style="margin:10px;" height="120px" alt="me">
+                  <img src="http://reu.dimacs.rutgers.edu/2015/pics/AKuo.jpg" style="margin-right:10px;" height="180px" alt="me">
                 </div>
                 <table>
-                  <dd style="font-size: 20px; padding: 5px"> Albert Kuo </dd>
-                  <tr>
-                  <th>office:</th>
-                  <td>CoRE 434</td>
-                  </tr>
-                  <tr>
-                  <th>school:</th>
-                  <td><a href="http://www.uchicago.edu/">The University of Chicago</a></td>
-                  </tr>
-                  <tr>
-                  <th>e-mail:</th>
-                  <td>albertkuo@uchicago.edu</td>
-                  </tr>
-                  <tr>
-                  <th>project:</th>
-                  <td>Development of machine learning algorithms in biology</td>
-                  </tr>
-                  </tbody>
+                  <div class="mdl-card__title mdl-color--primary-dark">
+                    <h2 class="mdl-card__title-text">Albert Kuo</h2>
+                  </div>
+
+                  <tr><th style="padding-top:1em">office:</th><td style="padding-top:1em">CoRE 434</td></tr>
+                  <tr><th>school:</th><td>The University of Chicago</td></tr>
+                  <tr><th>e-mail:</th><td>albertkuo@uchicago.edu</td></tr>
+                  <tr><th>project:</th><td>Development of machine learning algorithms in biology</td></tr>
                 </table>
               </div>
               <div class="mdl-card__actions">
-                <h4>Program Description</h4>
-                <p> DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science) was founded as one of 24 Science and Technology Centers funded by the NSF. It hosts a <a href="http://reu.dimacs.rutgers.edu/" target="blank">9-week REU program</a>, which I attended in the summer of 2015.
-                <h4>Project Description</h4>
-                <p>I worked with <a href="https://genfaculty.rutgers.edu/kcchen/home">Dr. Kevin Chen</a> and explored epigenomic data for predicting enhancers (distal regulatory DNA sequences). I used hidden Markov models (HMMs), support vector machines (SVMs), and logistic regression to understand the relationships between enhancer marks and implement enhancer prediction. Click the tabs above to view my weekly log and links to my presentation and final report. </p>
+                <h4 class="mdl-typography--text-center mdl-typography--text-uppercase">The Project</h4>
+                <p> DIMACS (the Center for Discrete Mathematics and Theoretical Computer Science) was founded as one of 24 Science and Technology Centers funded by the NSF. It hosts a <a href="http://reu.dimacs.rutgers.edu/" target="blank">9-week REU program</a>, which I attended in the summer of 2015.</p>
+                <p>I worked with <a href="https://genfaculty.rutgers.edu/kcchen/home">Dr. Kevin Chen</a> and explored epigenomic data for predicting enhancers -- sequences in the DNA that regulate gene expression. The machine learning algorithms I used included hidden Markov models (HMMs), support vector machines (SVMs), and logistic regression. I combined various datasets with these models to better understand the relationships between enhancer marks and their role in enhancer prediction.</p>
               </div>
             </div>
           </section>
         </div>
 
-        <!--Weekly Log Tab-->
-        <div class="mdl-layout__tab-panel" id="log">
+        <!--Weekly Log Section-->
+        <div class="dimacs__log-section mdl-color--grey-100" id="log">
           <section class="section--center mdl-grid">
+            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+              <h4 class="mdl-typography--text-center mdl-typography--text-uppercase">Weekly Log</h4> 
+            </div>
             <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
               <dt><h2 class="mdl-card__title-text">Week 1</h2></dt>
                 <div class="mdl-card__supporting-text">
@@ -195,55 +171,62 @@
                   I added two more datasets, Enhancer DRM and DNase, as features and replicated my results on 3 other cell types from the ENCODE project. In addition, I looked at two-way interaction factors in logistic regression. Lastly, I compiled all my results from the summer into a report for my mentor.   
                 </div>
             </div>
+            <!-- Button To Top-->
+            <div style="margin: 50px auto 0 auto">
+              <a href="#about">
+                <button class="mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary">
+                  <i class="material-icons">expand_less</i>
+                </button>
+              </a>
+            </div>
           </section>
         </div>
 
-        <!--About Me Tab-->
-        <div class="mdl-layout__tab-panel" id="links">
+        <!--About Me Section-->
+        <div class="dimacs__log-section mdl-color--primary-dark" id="links">
           <section class="section--center mdl-grid">
-            <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp">
+            <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+              <h4 class="mdl-typography--text-center mdl-typography--text-uppercase mdl-color-text--white">Links</h4> 
+            </div>
+            <div class="mdl-card mdl-card__actions mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp mdl-color--grey-200">
               <dt>My Work</dt>
-                <dd>
                   <ul>
                     <li><a href="docs/DIMACS_Presentation.pdf" target="blank">Mid-Program Presentation Slides</a></li>
                     <li><a href="docs/DIMACS_Final_Report.pdf" target="blank">Final Report</a></li>
                     <li><a href="https://github.com/albertkuo/DIMACS" target="blank">Github Repository</a></li>
                   </ul>
-                </dd>
               </div>
-            <div class="mdl-card mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp">
+            <div class="mdl-card mdl-card__actions mdl-cell mdl-cell--6-col mdl-cell--4-col-tablet mdl-cell--2-col-phone mdl-shadow--2dp mdl-color--grey-200">
               <dt>Additional Information</dt>
-                <dd>
-                  <ul>
-                    <li> Program Info: 
-                      <a href="http://dimacs.rutgers.edu/REU/">DIMACS REU</a>
-                    </li>
-                    <li> My mentor:
-                    <a href="https://genfaculty.rutgers.edu/kcchen/home">Dr. Kevin Chen</a>
-                    </li>
-                    <li>My website: 
-                    <a href="http://home.uchicago.edu/~albertkuo/">Albert Kuo</a></li>
-                  </ul>
-                </dd>
+                <ul>
+                  <li> Program Info: 
+                    <a href="http://dimacs.rutgers.edu/REU/" class=>DIMACS REU</a>
+                  </li>
+                  <li> My mentor:
+                  <a href="https://genfaculty.rutgers.edu/kcchen/home">Dr. Kevin Chen</a>
+                </ul>
+            </div>
+            <!--Button-->
+            <div style="margin: 50px auto 0 auto">
+              <a href="index.html"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</button></a>
             </div>
           </section>
         </div>
 
-
         <!-- Footer -->
         <footer class="mdl-mega-footer">
           <div class="mdl-mega-footer--top-section">
-            Last updated August 2015
+            Last updated September 2015
           </div>
           <div class="mdl-mega-footer--bottom-section">
             <div class="mdl-logo">
               More Information
             </div>
             <ul class="mdl-mega-footer--link-list">
-              <li><a href="mailto:albertkuo@uchicago.edu">E-mail</a></li>
-              <li><a href="https:github.com/albertkuo/">Github</a></li>
-              <li><a href="https://www.linkedin.com/in/albertokuo">LinkedIn</a></li>
-              <li><a href="https://www.kaggle.com/albertkuo">Kaggle</a></li>
+             <li><a href="mailto:albertkuo@uchicago.edu" target="blank">E-mail</a></li>
+              <li><a href="https:github.com/albertkuo/" target="blank">Github</a></li>
+              <li><a href="https://www.linkedin.com/in/albertokuo" target="blank">LinkedIn</a></li>
+              <li><a href="https://www.kaggle.com/albertkuo" target="blank">Kaggle</a></li>
             </ul>
           </div>
         </footer>
