@@ -30,7 +30,7 @@ audio,canvas,img,svg,video {
 	vertical-align:middle
 }
 .icon {
-	background: #FBFBFB;
+	background: #F6F6F6;
 	background-size: cover;
 	background-repeat: no-repeat;
 	border: 10px solid #ccc;
@@ -87,9 +87,10 @@ audio,canvas,img,svg,video {
 	float: left;
 	margin-right: 10px;
 }
-.figleft, .figright {
+.figleft, .figright, .figcenter {
+	float: none;
+	margin: 0;
     display: table;
-    border: 2px solid lightgray;
 }
 .figleft{
 	float: left;
@@ -101,7 +102,7 @@ audio,canvas,img,svg,video {
 }
 figcaption {
 	display: table-caption;
-	border: 1px dotted lightgray;
+	border: 1px dotted white;
 	text-align: center;	
 	font-style: italic;
 	caption-side: bottom;

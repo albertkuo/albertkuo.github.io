@@ -104,6 +104,7 @@
 
         <!--Overview Tab-->
         <div class="mdl-layout__tab-panel is-active" id="overview">
+          <!-- Intro Card-->
           <section class="section--center mdl-grid mdl-grid--no-spacing">
             <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
               <div class="mdl-card__title">
@@ -112,25 +113,25 @@
               <div class="mdl-card__supporting-text">
                 <p>
                   <img src="images/me.jpg" class="profilewrap" width="120">
-                Hi, I'm Albert Kuo and I'm a fourth year undergrad at the University of Chicago majoring in math and statistics. I am currently working on this website, which is why it looks unfinished. Contact me at <a href="mailto:albertkuo@uchicago.edu">albertkuo@uchicago.edu</a>.</p>
+                Hi, I'm Albert Kuo and I'm a fourth year undergrad at the University of Chicago majoring in math and statistics. I am currently working on this website, which is why it still looks unfinished. In the meantime, you can contact me at <a href="mailto:albertkuo@uchicago.edu">albertkuo@uchicago.edu</a>.</p>
               </div>
-              <div class="mdl-card__actions">
+              <!--<div class="mdl-card__actions">
                 <a href="#about" class="mdl-button">More about me</a>
-              </div>
+              </div>-->
             </div>
           </section>
            <!-- Icons -->
-            <section class="section--center icon-grid">
-              <div class="flexcontainer">
-                <a href="https://github.com/albertkuo/" class="icon icon--github" target="blank"><span class="text">GITHUB</span></a>
-              </div>
-              <div class="flexcontainer">
-                <a href="https://www.linkedin.com/in/albertokuo" class="icon icon--linkedin" target="blank"><span class="text">LinkedIn</span></a>
-              </div>
-              <div class="flexcontainer">
-                <a href="https://www.kaggle.com/albertkuo" class="icon icon--kaggle" target="blank"><span class="text">KAGGLE</span></a>
-              </div>
-            </section>
+          <section class="section--center icon-grid">
+            <div class="flexcontainer">
+              <a href="https://github.com/albertkuo/" class="icon icon--github" target="blank"><span class="text">GITHUB</span></a>
+            </div>
+            <div class="flexcontainer">
+              <a href="https://www.linkedin.com/in/albertokuo" class="icon icon--linkedin" target="blank"><span class="text">LinkedIn</span></a>
+            </div>
+            <div class="flexcontainer">
+              <a href="https://www.kaggle.com/albertkuo" class="icon icon--kaggle" target="blank"><span class="text">KAGGLE</span></a>
+            </div>
+          </section>
         </div>
 
         <!--Projects Tab-->
@@ -189,33 +190,38 @@
           </section>
         </div>
 
-        <!--About Me Tab-->
+        <!--Personal Tab-->
         <div class="mdl-layout__tab-panel" id="about">
           <section class="section--center mdl-grid">
-            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
               <div class="mdl-card__supporting-text">
                 <h5>Hobbies</h5>
                 <p>In my free time, I like to read and write fiction. Last year, I participated in <a href="http://nanowrimo.org/" target="blank">NaNoWriMo</a> (National Novel Writing Month) and my novel can be found <a href="http://www.amazon.com/dp/1505416981/ref=r_soa_w_d" target="blank">here</a>.</p>
-                <figure class="figright">
-                  <a href="images/rossini.jpg"><img src="images/rossini.jpg" width="240" height="180"></a>
-                  <figcaption>Rossini, 2014 <br>Oil on canvas</figcaption>
-                </figure>
                 <p> I also like art and drawing and I took a painting class last year. On the right is a painting I completed last winter, which was inspired by The Barber of Seville Overture. 
                 </p>
-                <p>In addition, I play the piano and I'm a violinist in the University Chamber Orchestra. <!--Recently, I've explored composing some piano pieces and below is a short sample of something I wrote and played.</p>
+                <p>At school, I play the violin in the University Chamber Orchestra and I also play the piano in my free time. <!--Recently, I've explored composing some piano pieces and below is a short sample of something I wrote and played.</p>
                 <audio src="music/sample.m4a" controls> 
                   <p>Composition 1</p>
                 </audio>-->
               </div>
             </div>
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--light-green-300 mdl-color-text--white mdl-shadow--2dp">
+              <figure class="figcenter">
+                  <img src="images/rossini.jpg" class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col-tablet mdl-cell--4-col-phone">
+                  <figcaption>Rossini, 2014 <br>Oil on canvas</figcaption>
+              </figure>
+            </header>
 
-            <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
-              <div class="mdl-card__supporting-text">
-                <h5>Travel</h5>
-                <figure class="figleft">
-                  <a href="images/raonic.jpg"><img src="images/raonic.jpg" width="240" height="180"></a>
+            <header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-200 mdl-color-text--white mdl-shadow--2dp">
+              <figure class="figcenter">
+                  <img src="images/raonic.jpg" class="mdl-cell mdl-cell--12-col-desktop mdl-cell--8-col-tablet mdl-cell--4-col-phone">
                   <figcaption>M. Raonic serving against V. Pospisil at Rogers Cup 2013</figcaption>
-                </figure>
+              </figure>
+            </header>
+            <div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
+              <div class="mdl-card__supporting-text">
+                <h4>Travel</h4>
                 <p>
                 I enjoy traveling and I've been fortunate to be able to visit many cities around the world. As an avid tennis fan, I visited Montreal, Canada in 2013 to watch a tennis match live for the first time at Rogers Cup. The same summer, I also visited Antigua, Guatemala, where I took Spanish classes at <a href="http://www.spanishacademyantiguena.com/" target="blank">Academia Antigüeña</a>.</p>
                 <p> Most recently, I did a study abroad program in Barcelona, Spain at <a href="http://www.upf.edu/en/" target="blank">Universitat Pompeu Fabra</a> for a quarter, where I learned about the history and culture of Spain and the Mediterranean world.</p>
@@ -224,11 +230,10 @@
           </section>
         </div>
 
-
         <!-- Footer -->
         <footer class="mdl-mega-footer">
           <div class="mdl-mega-footer--top-section">
-            Last updated August 2015
+            Last updated September 2015
           </div>
           <div class="mdl-mega-footer--bottom-section">
             <div class="mdl-logo">
