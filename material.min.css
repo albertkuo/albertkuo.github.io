@@ -3439,8 +3439,8 @@ input.mdl-button[type="submit"] {
 	color:#424242;
 	text-decoration:none;
 	font-weight:500;
-	font-size:13px;
-	margin:0
+	font-size:20px;
+	margin:20px
 }
 .mdl-layout {
 	width:100%;
@@ -3476,6 +3476,18 @@ input.mdl-button[type="submit"] {
 	font-family:"Roboto","Helvetica","Arial",sans-serif;
 	font-size:40px;
 	color: white;
+	line-height:1;
+	letter-spacing:.02em;
+	font-weight:400;
+	box-sizing:border-box
+}
+.mdl-layout-subtitle {
+	display:block;
+	position:relative;
+	font-family:"Roboto","Helvetica","Arial",sans-serif;
+	font-size:30px;
+	font-style: italic;
+	color: lightgray;
 	line-height:1;
 	letter-spacing:.02em;
 	font-weight:400;
@@ -3629,6 +3641,19 @@ input.mdl-button[type="submit"] {
 		display:none
 	}
 }
+.dimacs__intro-section {
+	position: relative;
+	height: 900px;
+	width: auto;
+	background-color: #f3f3f3;
+	background: url('images/blue-rain-dark.jpg') center 30% no-repeat;
+	background-size: cover;
+}
+.dimacs__log-section {
+	position: relative;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
 .mdl-layout__header {
 	display:-webkit-box;
 	display:-webkit-flex;
@@ -3665,6 +3690,8 @@ input.mdl-button[type="submit"] {
 	transition-timing-function:cubic-bezier(.4,0,.2,1);
 	-webkit-transition-property:max-height,box-shadow;
 	transition-property:max-height,box-shadow;
+}
+.header__background{
 	background-image: url("images/blue-rain.jpg");
 	background-size: cover;
 	background-position: bottom;
