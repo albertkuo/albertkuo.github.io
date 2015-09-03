@@ -42,6 +42,22 @@
     <!--
     <link rel="canonical" href="http://www.example.com/">
     -->
+
+    <!-- Little Bit of Javascript for Sliding Section -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script> 
+      $(document).ready(function(){
+          $("#show-more").click(function(){
+            $("#show-more").fadeTo("medium", 0);
+            $("#panel").slideDown("slow");
+          });
+          $("#show-less").click(function(){
+            $("#show-more").fadeTo("slow", 100);
+            $("#panel").slideUp("slow");
+          });
+      });
+    </script>
+
     <link rel="shortcut icon" href="images/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -49,22 +65,13 @@
     <link rel="stylesheet" href="material.min.css">
     <link rel="stylesheet" href="styles.css">
     <style>
-    #view-source {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
-    }
-    dt { 
-      font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
-      font-weight: bold;
-      font-variant: small-caps;
-      text-align: center;
-      margin: 20px 0px 0px 20px;
-    }
+      dt { 
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+        font-weight: bold;
+        font-variant: small-caps;
+        text-align: center;
+        margin: 20px 0px 0px 20px;
+      }
     </style>
   </head>
 
@@ -73,7 +80,7 @@
       <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <!-- Tabs -->
         <div class="mdl-navigation mdl-js-ripple-effect">
-          <a href="index.html" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--grey-100">Home</a>
+          <a href="index.html" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Home</a>
           <div class="mdl-layout-spacer"></div>
           <a href="#about" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Intro</a>
           <a href="#log" class="mdl-navigation__link mdl-typography--text-uppercase mdl-color-text--blue-100">Weekly Log</a>
@@ -111,12 +118,24 @@
           </section>
         </div>
 
+
         <!--Weekly Log Section-->
         <div class="dimacs__log-section mdl-color--grey-100" id="log">
           <section class="section--center mdl-grid">
             <div class="mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
               <h4 class="mdl-typography--text-center mdl-typography--text-uppercase">Weekly Log</h4> 
+              <hr/>
+            </div> 
+            <div id="show-more" class="dimacs__center-item">
+              <button class="mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary">
+                <i class="material-icons">expand_more</i>
+              </button>
             </div>
+          </section>
+
+          <div id="panel" style="display:none">
+          <!--Weekly Log Contents-->
+          <section class="section--center mdl-grid">
             <div class="mdl-card mdl-cell mdl-cell--12-col mdl-cell--8-col-tablet mdl-cell--4-col-phone mdl-shadow--2dp">
               <dt><h2 class="mdl-card__title-text">Week 1</h2></dt>
                 <div class="mdl-card__supporting-text">
@@ -172,16 +191,16 @@
                 </div>
             </div>
             <!-- Button To Top-->
-            <div style="margin: 50px auto 0 auto">
-              <a href="#about">
-                <button class="mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary">
-                  <i class="material-icons">expand_less</i>
-                </button>
-              </a>
+            <div id="show-less" class="dimacs__center-item dimacs__margin-top">
+              <button class="mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-color--primary">
+                <i class="material-icons">expand_less</i>
+              </button>
             </div>
           </section>
+          </div>
         </div>
 
+        
         <!--About Me Section-->
         <div class="dimacs__log-section mdl-color--primary-dark" id="links">
           <section class="section--center mdl-grid">
@@ -204,7 +223,7 @@
                 </dt>
             </div>
             <!--Button-->
-            <div style="margin: 50px auto 0 auto">
+            <div class="dimacs__center-item dimacs__margin-top">
               <a href="index.html"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Back to My Website</button></a>
             </div>
           </section>
