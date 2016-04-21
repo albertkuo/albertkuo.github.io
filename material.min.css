@@ -85,9 +85,10 @@ audio,canvas,img,svg,video {
 .icon:hover .text{
 	display: inline;
 }
-.profilewrap {
-	float: left;
-	margin-right: 10px;
+.profilepic {
+	margin: auto;
+	display:block;
+	width: 40%;
 }
 .figleft, .figright, .figcenter {
 	float: none;
@@ -2174,7 +2175,7 @@ ul,ol {
 	background-color:#fff !important
 }
 .mdl-color--primary-dark {
-	background-color:#11529d !important
+	background-color:#1565C0 !important
 }
 .mdl-color--accent {
 	background-color:#3399FF !important
@@ -3653,8 +3654,8 @@ input.mdl-button[type="submit"] {
 	padding-top: 60px;
 	padding-bottom: 60px;
 	width: auto;
-	background-color: #f3f3f3;
-	background: url('images/blue-rain-dark.jpg') center 30% no-repeat;
+	background-color: #0D47A1;
+	/* background: url('images/blue-rain-dark.jpg') center 30% no-repeat; */ 
 	background-size: cover;
 }
 .dimacs__log-section {
@@ -3700,7 +3701,8 @@ input.mdl-button[type="submit"] {
 	transition-property:max-height,box-shadow;
 }
 .header__background{
-	background-image: url("images/blue-rain.jpg");
+	/* background-image: url("images/blue-rain.jpg");*/
+	background-color: #0D47A1;
 	background-size: cover;
 	background-position: bottom;
 }
