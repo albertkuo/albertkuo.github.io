@@ -36,9 +36,7 @@ author:
   github   : http://github.com/albertkuo
   linkedin : http://linkedin.com/in/albertokuo
 
-gems:
-  - bourbon
-  - jekyll-paginate
+gems: [bourbon, jekyll-paginate]
 
 # navbar pages
 navbar:
