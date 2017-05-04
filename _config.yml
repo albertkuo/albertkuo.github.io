@@ -6,8 +6,8 @@ keywords: ""
 url: http://albert-kuo.me
 baseurl: null
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/simplest
+google_analytics:
+repo: http://github.com/albertkuo
 
 # Build settings
 permalink   : /:title/
@@ -31,7 +31,7 @@ author:
   name     : Albert Kuo
   job      : a (soon to be) PhD student
   bio      : "Studying biostatistics at Johns Hopkins University."
-  thumb    : /images/author.jpg
+  thumb    : /files/me.jpg
   email    : albertkuo8@gmail.com
   url      : http://albert-kuo.me
   github   : http://github.com/albertkuo
@@ -44,11 +44,11 @@ gems:
 # navbar pages
 navbar:
   - slug : about
-    title: About
-  - slug : blog
-    title: Blog
+    title: about
+  - slug : projects
+    title: projects
   - slug: misc
-    title: Misc
+    title: about
 
 include: ["_pages"]
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

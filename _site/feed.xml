@@ -5,17 +5,17 @@
     <description>I am a biostatistics PhD student at the Johns Hopkins Bloomberg School of Public Health.</description>
     <link>http://albert-kuo.me/</link>
     <atom:link href="http://albert-kuo.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 May 2017 19:09:31 -0500</pubDate>
-    <lastBuildDate>Wed, 03 May 2017 19:09:31 -0500</lastBuildDate>
+    <pubDate>Wed, 03 May 2017 19:36:02 -0500</pubDate>
+    <lastBuildDate>Wed, 03 May 2017 19:36:02 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Sample post</title>
         <description>&lt;p&gt;This is some sample text demonstrating what a blog post would look like. I might or might not start blogging in the future.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Apr 2017 14:06:00 -0500</pubDate>
-        <link>http://albert-kuo.me/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</link>
-        <guid isPermaLink="true">http://albert-kuo.me/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</guid>
+        <pubDate>Wed, 03 May 2017 14:06:00 -0500</pubDate>
+        <link>http://albert-kuo.me/sample-post/</link>
+        <guid isPermaLink="true">http://albert-kuo.me/sample-post/</guid>
         
         <category>sample</category>
         
