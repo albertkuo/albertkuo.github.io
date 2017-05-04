@@ -18,7 +18,6 @@ paginate: 3
 paginate_path: "/page/:num/"
 comments: true
 
-source: source
 destination: _site
 
 # Sass configuration
