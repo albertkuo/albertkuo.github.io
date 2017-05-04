@@ -12,7 +12,7 @@ repo: http://github.com/albertkuo
 # Build settings
 permalink   : /:title/
 markdown    : kramdown
-highlighter : pygments
+highlighter : rouge
 
 paginate: 3
 paginate_path: "/page/:num/"
