@@ -12,8 +12,7 @@ permalink: /projects/
 
 - (2015) **DIMACS REU**: I was a participant in the [DIMACS REU](http://reu.dimacs.rutgers.edu/) program at Rutgers University. I worked with [Professor Kevin Chen](https://genfaculty.rutgers.edu/kcchen/home) to analyze epigenetic data and predict enhancers. Read my paper [here][3].
 
-- (2014) **Flappy Bird analysis**: My first statistics project with my friend Anthony Pan, which I am keeping up [here][4] as a reminder of where I started from. I worked on an [update][5] of the project in 2016. 
-
+- (2014) **Flappy Bird analysis**: This was my very first statistics [project][4], which I worked on with Anthony Pan. I am keeping it up as a reminder that at the very least, I've learned a bit more since then. I [updated][5] the project in 2016. 
 
 [1]:{{ site.baseurl }}/files/Metrics_Game_Paper_2015.pdf   
 [2]:{{ site.baseurl }}/files/Metrics_Game_Paper_2016.pdf 
