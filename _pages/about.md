@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<center><img src="{{ site.baseurl }}/files/me.jpg" alt="me" style="width: 30%; border: #ec2028 4px solid"/></center>
+<center><img src="{{ site.baseurl }}/files/me.jpg" alt="me" style="width: 30%; border: #999 4px solid"/></center>
 
 <br>
 
