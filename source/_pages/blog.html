@@ -1,0 +1,18 @@
+---
+layout: default
+title: blog
+permalink: /blog/
+---
+
+<section class="post-list">
+  <div class="container">
+    {% for post in site.posts limit: 2 %}
+      <article class="post-item">
+        <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  — <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> — <span> {{ post.content }}</span> <a class="post-link readmore" href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
+      </article>
+    {% endfor %}
+  </div>
+
+<div class="infinite-spinner"></div>
+</section>
+
