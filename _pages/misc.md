@@ -7,5 +7,5 @@ I keep a [reading blog](https://albertandkevin.wordpress.com/) with Kevin Sun. T
 
 I occasionally write (short) stories and (longer) works of fiction. I was a participant in [National Novel Writing Month](https://nanowrimo.org/) (NaNoWriMo) for 3 years, from 2014 - 2016. You can find my most recent book [here](https://www.amazon.com/Watersilk-Albert-Kuo/dp/1540777790). 
 
-I also make stop-motion animations in my spare time, which you can watch on [vimeo](https://vimeo.com/albertkuo).
+In my spare time, I make stop-motion animations, which you can watch on [vimeo](https://vimeo.com/albertkuo).
 
