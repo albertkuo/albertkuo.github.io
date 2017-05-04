@@ -6,7 +6,7 @@ keywords: ""
 url: http://albert-kuo.me
 baseurl: null
 
-google_analytics:
+google_analytics: UA-98438367-1
 repo: http://github.com/albertkuo
 
 # Build settings
