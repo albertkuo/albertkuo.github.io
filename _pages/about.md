@@ -8,8 +8,8 @@ permalink: /about/
 
 <br>
 
-I am an incoming PhD student in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. You can find me on [LinkedIn](https://linkedin.com/in/albertokuo) and [Github](https://github.com/albertkuo). 
+I am currently an incoming PhD student in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. 
 
-I did my bachelor's at the University of Chicago and graduated in 2016 with a double major in math and statistics. I then worked for a year as a research assistant for [Professor G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch) and [Professor Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro) at the Booth School of Business before enrolling at Johns Hopkins. 
+I graduated with a B.S. in math and statistics from the University of Chicago in 2016. I then worked for a year as a research assistant for [Professor G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch) and [Professor Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro) at the Booth School of Business before starting my program at Johns Hopkins. 
 
 [1]:{{ site.baseurl }}/files/me.jpg = 250x 

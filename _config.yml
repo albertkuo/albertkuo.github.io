@@ -28,7 +28,7 @@ sass:
 # Author settings
 author:
   name     : Albert Kuo
-  job      : a (soon to be) PhD student
+  job      : a 1st year PhD student
   bio      : "Studying biostatistics at Johns Hopkins University."
   thumb    : /files/me.jpg
   email    : albertkuo8@gmail.com
@@ -47,7 +47,7 @@ navbar:
   - slug : projects
     title: projects
   - slug: misc
-    title: about
+    title: misc
 
 include: ["_pages"]
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "vendor"]

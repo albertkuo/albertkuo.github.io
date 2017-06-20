@@ -8,7 +8,7 @@ permalink: /projects/
 
 - 2016 **Natural Language Processing**: I worked on a [project][6] predicting Kickstarter campaign success using convolutional neural networks under the mentorship of [Professor Kevin Gimpel](http://ttic.uchicago.edu/~kgimpel/). 
 
-- 2015 & 2016 **Oeconomica competition**: My team finished 2nd at the UChicago econometrics game both years. Read our [2015][1] and [2016][2] papers.
+- 2015-16 **Oeconomica competition**: My team finished 2nd at the UChicago econometrics game in 2015 and 2016. Read our [2015][1] and [2016][2] papers.
 
 - 2015 **DIMACS REU**: I was a participant in the [DIMACS REU](http://reu.dimacs.rutgers.edu/) program at Rutgers University. I worked with [Professor Kevin Chen](https://genetics.rutgers.edu/faculty/faculty-list/userprofile/kcchen/) to analyze epigenetic data and predict enhancers. Read my paper [here][3].
 
