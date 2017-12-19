@@ -3,7 +3,8 @@ layout: index
 title: Home
 ---
 
-## Contact Info
+
+<h1><center>Contact Info</center></h1>
 
 The best way to reach me is by e-mail: albertkuo [at] jhu [dot] edu
 
