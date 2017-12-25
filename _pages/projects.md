@@ -16,7 +16,9 @@ permalink: /projects/
 
 <p>&nbsp;</p>
 
-<h2><center>other</center></h2>
+---
+
+<h2><center>extracurricular</center></h2>
 
 **Statistics X app (2016)**: I created multimedia content for the iOS app [Statistics X](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8) with [Knowvio](http://knowvio.org/), a mobile education publishing company started by UChicago students. Knowvio has also released apps for learning [physics](http://knowvio.org/physics-x/), [chemistry](https://itunes.apple.com/us/app/chemistry-x-college-ap-chem/id1067707398?mt=8), [biology](https://itunes.apple.com/us/app/biology-x-college-and-ap-bio/id1086398180?mt=8), [calculus](https://itunes.apple.com/us/app/calculus-x-college-ap-calc/id1029729565?mt=8), and [economics](https://itunes.apple.com/us/app/microeconomics-x-college-ap/id1097330096?mt=8). 
 
