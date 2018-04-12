@@ -8,7 +8,7 @@ permalink: /about/
 
 <br>
 
-I am currently a 1st year PhD student in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health. I did my undergrad at the University of Chicago, where I majored in math and statistics. 
+I graduated from the University of Chicago with a bachelor's in math and statistics. Currently, I am a PhD student in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health.
 
 When I'm not busy with school, I'm usually sleeping, reading, or watching tennis. 
 
