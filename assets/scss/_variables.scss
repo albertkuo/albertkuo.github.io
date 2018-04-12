@@ -1,5 +1,5 @@
 // Typography
-$base-font-family: 'Open Sans', $helvetica, 'Calibri';
+$base-font-family: 'Calibri', $helvetica;
 // $base-font-family: 'Merriweather', "Georgia", serif;
 $heading-font-family: $base-font-family;
 
@@ -24,7 +24,7 @@ $blue-color: #477dca;
 $dark-gray-color: #333;
 $medium-gray-color: #999;
 $light-gray-color: #ccc;
-$action-color:$medium-gray-color;
+$action-color:$blue-color;
 
 // Font Colors
 $base-font-color: rgba($dark-gray-color, .8);

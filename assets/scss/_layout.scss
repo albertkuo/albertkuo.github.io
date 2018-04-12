@@ -65,15 +65,14 @@ hr {
 
 .link {
   display: inline-block;
-  padding-bottom: .08em;
-  border-bottom: 1px solid $light-gray-color;  
+  border-bottom: 2px solid $light-gray-color;  
   @include transition(border 300ms linear);
 
   &:hover,
   &:focus,
   &:active {
-    color: shade($primary-color, 25%);
-    border-color: darken($light-gray-color, 10%);
+    color: shade($action-color, 25%);
+    border-color: darken($light-gray-color, 25%);
   }
 }
 
@@ -86,7 +85,7 @@ hr {
 
 .intro {
   .author-name {
-    background-color: $primary-color;
+    background-color: $action-color;
     color: $white-color;
     display: inline-block;
     padding: 0 .3em;
@@ -114,6 +113,17 @@ hr {
 
 .nav {
   min-height: 64px;
+  a {
+    @extend .link;
+    color: $primary-color;
+    border-bottom: 2px solid $light-gray-color; 
+    &:hover,
+    &:focus,
+    &:active {
+        color: shade($primary-color, 25%);
+        border-color: darken($light-gray-color, 25%);
+    }
+  }
 }
 
 .navbar {
@@ -127,12 +137,6 @@ hr {
   li {
     display: inline-block;
     padding: 0 .6em;
-  }
-
-  a {
-    @extend .link;
-    color: $primary-color;
-    border-bottom: 2px solid $light-gray-color;    
   }
 }
 

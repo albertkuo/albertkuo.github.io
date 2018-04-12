@@ -4,7 +4,7 @@ title: misc
 permalink: /misc/
 ---
 
----
+
 
 **Writing** I occasionally write (short) stories and (longer) works of fiction. I was a participant in National Novel Writing Month (NaNoWriMo) for three years, from 2014 - 2016. In NaNoWriMo, participants are challenged to write a 50,000-word novel in the month of November. My most recent novel, *Watersilk*, is [available on Amazon](https://www.amazon.com/Watersilk-Albert-Kuo/dp/1540777790). 
 
