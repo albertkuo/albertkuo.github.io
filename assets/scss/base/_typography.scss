@@ -24,6 +24,7 @@ h6 {
 
 h1 {
   font-size: rem(30);
+  color: $primary-color;
 }
 
 h2 {
@@ -60,7 +61,7 @@ a {
   &:active,
   &:focus,
   &:hover {
-    color: shade($primary-color, 25%);
+    color: shade($action-color, 25%);
   }
 }
 

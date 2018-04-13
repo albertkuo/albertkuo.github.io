@@ -4,15 +4,15 @@ $base-font-family: 'Calibri', $helvetica;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: medium;
 
 // Line height
 $base-line-height: 1.5;
 $heading-line-height: 1.2;
 
 // Other Sizes
-$base-border-radius: .52em;
-$base-spacing: $base-line-height * 1em;
+$base-border-radius: 10px;
+$base-spacing: $base-line-height * 20px;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 

@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<h1><center>Contact Info</center></h1>
+<h2><center>Contact Info</center></h2>
 
 The best way to reach me is by e-mail: albertkuo [at] jhu [dot] edu
 

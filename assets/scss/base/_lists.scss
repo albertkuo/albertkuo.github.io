@@ -6,7 +6,7 @@ ol {
 
   &%default-ul {
     list-style-type: disc;
-    margin-bottom: $small-spacing;
+    margin-bottom: $base-spacing;
     padding-left: $base-spacing;
   }
 
@@ -15,6 +15,10 @@ ol {
     margin-bottom: $small-spacing;
     padding-left: $base-spacing;
   }
+}
+
+ul li {
+  margin-bottom: $small-spacing;
 }
 
 dl {
