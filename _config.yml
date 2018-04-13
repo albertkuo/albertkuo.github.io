@@ -36,8 +36,7 @@ author:
   github   : http://github.com/albertkuo
   linkedin : http://linkedin.com/in/albertokuo
 
-gems:
-  - bourbon # bourbon is not supported by github-pages, manually copied stylesheet
+plugins:
   - jekyll-paginate
 
 # navbar pages
