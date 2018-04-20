@@ -103,12 +103,12 @@ hr {
     @extend .link;
     color: $primary-color;
     border-bottom: 2px solid $light-gray-color; 
-    transition: border 300ms linear;
+    transition: border $base-duration linear, color $base-duration linear;
 
     &:hover,
     &:focus,
     &:active {
-        color: shade($primary-color, 25%);
+        color: darken($primary-color, 25%);
         border-color: darken($light-gray-color, 25%);
     }
   }

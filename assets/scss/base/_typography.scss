@@ -53,21 +53,22 @@ p {
 a {
   color: $action-color;
   text-decoration: none;
-  transition: color $base-duration $base-timing;
+  transition: color 300ms linear;
 
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    color: darken($action-color, 25%);
   }
 }
 
 a.footer{
   color:$light-gray-color;
+  
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    color: $dark-gray-color;
   }
 }
 
