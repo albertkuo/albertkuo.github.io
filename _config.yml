@@ -28,10 +28,10 @@ sass:
 # Author settings
 author:
   name     : Albert Kuo
-  job      : a 1st year PhD student
+  job      : a PhD student
   bio      : "Studying biostatistics at Johns Hopkins University."
   thumb    : /files/me.jpg
-  email    : albertkuo8@gmail.com
+  email    : albertkuo@jhu.edu
   url      : http://albert-kuo.me
   github   : http://github.com/albertkuo
   linkedin : http://linkedin.com/in/albertokuo
