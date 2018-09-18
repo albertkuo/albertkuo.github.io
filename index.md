@@ -3,13 +3,12 @@ layout: index
 title: Home
 ---
 
+<center><img src="{{ site.baseurl }}/files/me.jpg" alt="me" style="width: 30%; border: #999 4px solid"/></center>
 
-<h2><center>Contact Info</center></h2>
+<br>
 
-The best way to reach me is by e-mail: albertkuo [at] jhu [dot] edu
+I am a PhD student in biostatistics at Johns Hopkins University working with Cristian Tomasetti. I graduated from the University of Chicago with a bachelor's in math and statistics. 
 
-You can also find me on [LinkedIn](https://linkedin.com/in/albertokuo) and [Github](https://github.com/albertkuo).
+When I'm not busy with school, I'm usually sleeping, reading, or watching tennis. 
 
-For physical mail, please direct towards:
-615 N. Wolfe St. E3033
-Baltimore, MD 21205
+[1]:{{ site.baseurl }}/files/me.jpg = 250x

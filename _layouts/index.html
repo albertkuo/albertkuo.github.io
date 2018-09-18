@@ -2,13 +2,18 @@
 layout: default
 ---
 
-{% include intro.html %}
-
-<section class="post-list">
-  <div class="container">
+<!-- Original intro section
+{% include intro.html %} -->
+<section class="page container">
+    <div class="page-content">
     {{ content }}
-  </div>
-  <!-- Original blog section
+    </div>
+</section>
+
+{% include contact-buttons.html %}
+
+<!-- Original blog section
+<section class="post-list">
   <div class="container">
   <h2>blog</h2>
     {% for post in paginator.posts %}
@@ -21,5 +26,5 @@ layout: default
   <div class="container">
      {% include pagination.html %}
   </div>
-  -->
 </section>
+-->
