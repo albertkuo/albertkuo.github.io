@@ -10,5 +10,5 @@ permalink: /misc/
 
 *Reading*: I keep a [reading blog](https://albertandkevin.wordpress.com/) with my friend Kevin. Three books I recommend are *Sapiens: A Brief History of Humankind* by Yuval Noah Harari, *The New Jim Crow* by Michelle Alexander, and *A Little Life* by Hanya Yanagihara. 
 
-*Music*: I am a violinist in the Hopkins Concert Orchestra. Visit [our page on Facebook](https://www.facebook.com/HopkinsSymphonyOrchestra/) to check upcoming concert times.
+*Music*: I am a violinist in the Hopkins Concert Orchestra. Visit our [page on Facebook](https://www.facebook.com/HopkinsSymphonyOrchestra/) to check upcoming concert times.
 
