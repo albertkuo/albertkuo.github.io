@@ -7,7 +7,7 @@ title: Home
 
 <br>
 
-I am a PhD student in the biostatistics department at Johns Hopkins University working with Cristian Tomasetti. I graduated from the University of Chicago with a bachelor's in math and statistics. When I'm not busy with school, I'm usually sleeping, reading, or watching tennis. 
+I am a PhD student in the [Department of Biostatistics][https://www.jhsph.edu/departments/biostatistics/index.html] at Johns Hopkins University. I received my bachelor's in math and statistics from the University of Chicago. In my spare time, you are likely to find me reading, watching tennis, or sleeping. 
 
 
 
