@@ -7,7 +7,7 @@ title: Home
 
 <br>
 
-I am a PhD student in the [Department of Biostatistics][https://www.jhsph.edu/departments/biostatistics/index.html] at Johns Hopkins University. I received my bachelor's in math and statistics from the University of Chicago. In my spare time, you are likely to find me reading, watching tennis, or sleeping. 
+I am a PhD student in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at Johns Hopkins University. I received my bachelor's in math and statistics from the University of Chicago. In my spare time, you are likely to find me reading, watching tennis, or sleeping. 
 
 
 
