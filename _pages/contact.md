@@ -6,7 +6,6 @@ permalink: /contact
 
 
 
-&#9993; albertkuo [at] jhu [dot] edu
+<i class="fas fa-envelope-square"></i> albertkuo [at] jhu [dot] edu
 
-&#10018; 615 N Wolfe St E3033, Baltimore, MD 21205
-
+<i class="fas fa-map-marker-alt"></i> 615 N Wolfe St E3033, Baltimore, MD 21205
