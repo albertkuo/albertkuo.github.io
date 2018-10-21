@@ -3,7 +3,7 @@ layout: index
 title: Home
 ---
 
-<center><img src="{{ site.baseurl }}/files/me.jpg" alt="me" style="width: 30%; border: #999 4px solid"/></center>
+<center><img src="{{ site.baseurl }}/files/me.jpg" alt="me" style="width: 240px; border: #999 4px solid"/></center>
 
 <br>
 
