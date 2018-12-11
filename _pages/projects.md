@@ -20,7 +20,7 @@ stay tuned
 
 ## just for fun 
 
-***PUBG prediction model***: Inspired by a 2018 Kaggle competition, I used machine learning models to predict finish placements for PUBG players. [[webpage]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
+***PUBG prediction model***: Inspired by a 2018 Kaggle competition, I used machine learning models to predict finish placements for PUBG players. [[website]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
 
 ***Statistics X app***: I developed content, including video lectures and quizzes, for the Statistics X app with Knowvio, a mobile education startup founded by UChicago students. The app was launched in 2016. [[Knowvio]](http://knowvio.org/)[[iOS app]](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8)
 
