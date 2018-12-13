@@ -6,7 +6,7 @@ permalink: /projects
 
 ## current
 
-stay tuned
+(work in progress)
 
 <br>
 
