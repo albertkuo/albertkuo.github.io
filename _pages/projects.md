@@ -22,6 +22,8 @@ stay tuned
 
 ***PUBG prediction model***: Inspired by a 2018 Kaggle competition, I used machine learning models to predict finish placements for PUBG players. [[website]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
 
+***2018 Senate election predictions***: I used a Bayesian model to predict the Senate election results in 2018 and won a class competition. [[html]][7]
+
 ***Statistics X app***: I developed content, including video lectures and quizzes, for the Statistics X app with Knowvio, a mobile education startup founded by UChicago students. The app was launched in 2016. [[Knowvio]](http://knowvio.org/)[[iOS app]](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8)
 
 ***Econometrics Game***: The econometrics game is a day-long competition held at UChicago where teams work on a data-driven research question. Finalists are chosen to present their findings to a panel of judges. Our team finished 2<sup>nd</sup> in both 2015 and 2016. [[Event]](https://bfi.uchicago.edu/news/news/challenge-undergraduates-address-real-world-problems-econometrics)[[2015 pdf]][1][[2016 pdf]][2]
@@ -34,3 +36,4 @@ stay tuned
 [4]:{{ site.baseurl }}/files/Flappy_Bird_2014.pdf
 [5]:{{ site.baseurl }}/files/Flappy_Bird_2016.pdf
 [6]:{{ site.baseurl }}/files/Kickstarter_Project.pdf
+[7]:{{ site.baseurl }}/files/Senate_Election_2018.html
