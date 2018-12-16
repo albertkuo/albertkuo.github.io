@@ -22,7 +22,7 @@ permalink: /projects
 
 ***PUBG prediction model***: For a data science class project in 2018, I predicted players' finish placements in PlayerUnknown's Battlegrounds (PUBG), a battle royale video game. [[website]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
 
-***2018 Senate election predictions***: I used a Bayesian model to predict the Senate election results in 2018 and won a class competition. [[html]][7]
+***2018 Senate election predictions***: I used a Bayesian model to predict the Senate elections in 2018 and won a class competition. [[html]][7]
 
 ***Statistics X app***: I developed content, including video lectures and quizzes, for the Statistics X app with Knowvio, a mobile education startup founded by UChicago students. The app was launched in 2016. [[Knowvio]](http://knowvio.org/)[[iOS app]](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8)
 
