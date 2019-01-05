@@ -14,21 +14,15 @@ Prior to joining the PhD program at Johns Hopkins, I did some research as an und
 
 <br>
 
-Below I've listed projects I worked on under less formal settings in classes, competitions, etc.
+Projects I worked on under less formal settings in classes, competitions, etc. are listed below.
 
-* **- PUBG Prediction Model** (2018)
-  * For a data science class project, I predicted players' finish placements in PlayerUnknown's Battlegrounds (PUBG), a battle royale video game. [[website]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
+* **- PUBG Prediction Model** (2018) [[website]](https://pubg-prediction.github.io/project/)[[video]](https://www.youtube.com/watch?v=hp-gQzYe_w4)
 
-* **- 2018 Senate Election Predictions**
-  * I used a Bayesian model to predict the Senate elections in 2018 and won a class competition. [[html]][7]
-* **- Statistics X (iOS app)** (2016)
-  * I developed content for the Statistics X app with Knowvio, a mobile education startup founded by UChicago students. The app was launched in 2016. [[Knowvio]](http://knowvio.org/)[[iOS app]](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8)
-* **- Kickstarter Success Prediction** (2016)
-  * For a natural language processing class project, I predicted Kickstarter campaign successes with convolutional neural networks. [[pdf]][6]
-* **- Econometrics Game** (2015, 2016)
-  * The econometrics game is a day-long competition held at UChicago where teams work on a data-driven research question. Finalists are chosen to present their findings to a panel of judges. Our team finished 2<sup>nd</sup> in both 2015 and 2016. [[Event]](https://bfi.uchicago.edu/news/news/challenge-undergraduates-address-real-world-problems-econometrics)[[2015 pdf]][1][[2016 pdf]][2]
-* **- Flappy Bird Analysis** (2014) 
-  * I collected Flappy Bird game scores and wrote up a report with my friend Anthony. [[pdf]][5]
+* **- 2018 Senate Election Predictions** (2018) [[html]][7]
+* **- Statistics X (iOS app)** (2016) [[Knowvio]](http://knowvio.org/)[[iOS app]](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8)
+* **- Kickstarter Success Prediction** (2016) [[pdf]][6]
+* **- Econometrics Game** (2015, 2016) [[Event]](https://bfi.uchicago.edu/news/news/challenge-undergraduates-address-real-world-problems-econometrics)[[2015 pdf]][1][[2016 pdf]][2]
+* **- Flappy Bird Analysis** (2014) [[pdf]][5]
 
 [1]:{{ site.baseurl }}/files/Metrics_Game_Paper_2015.pdf   
 [2]:{{ site.baseurl }}/files/Metrics_Game_Paper_2016.pdf 
