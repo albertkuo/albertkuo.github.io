@@ -51,7 +51,7 @@ p {
 
 a {
   color: $medium-gray-color;
-  text-decoration: none;
+  text-decoration: underline;
   //transition: color 300ms linear;
 
   &:active,
