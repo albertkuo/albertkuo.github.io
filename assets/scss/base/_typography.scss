@@ -50,14 +50,14 @@ p {
 }
 
 a {
-  color: $action-color;
+  color: $medium-gray-color;
   text-decoration: none;
-  transition: color 300ms linear;
+  //transition: color 300ms linear;
 
   &:active,
   &:focus,
   &:hover {
-    color: darken($action-color, 25%);
+    color: $blue-color;
   }
 }
 

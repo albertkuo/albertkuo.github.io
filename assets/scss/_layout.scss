@@ -107,7 +107,7 @@ hr {
     @extend .link;
     color: $primary-color;
     border-bottom: 2px solid $light-gray-color; 
-    transition: border $base-duration linear, color $base-duration linear;
+    transition: border $base-duration linear; //color $base-duration linear;
 
     &:hover,
     &:focus,
