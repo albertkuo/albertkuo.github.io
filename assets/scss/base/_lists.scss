@@ -18,6 +18,8 @@ ol {
 }
 
 ul li {
+  list-style-type: none;         // Change to hide bullets
+  padding-left: $base_spacing;
   margin-bottom: $small-spacing;
 }
 
