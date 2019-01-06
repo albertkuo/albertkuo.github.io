@@ -58,18 +58,19 @@ a {
   &:focus,
   &:hover {
     color: $blue-color;
+    text-decoration: underline;
   }
 }
 
 a.footer{
   color:$light-gray-color;
-  text-decoration: none;
   transition: color 300ms linear;
   
   &:active,
   &:focus,
   &:hover {
     color: $dark-gray-color;
+    text-decoration: none;
   }
 }
 
