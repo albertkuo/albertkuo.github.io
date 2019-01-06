@@ -19,13 +19,13 @@ Projects I have worked on under less formal settings in classes, competitions, e
 * **-- Class Projects**
   * \- [Predicting Finish Placements in PUBG](https://pubg-prediction.github.io/project/) / PH.140.711 Advanced Data Science / *2018* 
   * \- [2018 Senate Election Predictions][7] / PH.140.711 Advanced Data Science / *2018*
-  * \- [Predicting Kickstarter Succes][6] / TTIC 31190 Natural Language Processing / *2016* 
+  * \- [Predicting Kickstarter Success][6] / TTIC 31190 Natural Language Processing / *2016* 
 * **-- Competitions**
-  * \- [2016 Econometrics Game][2] / 2nd Place Team [[Event description]](https://voices.uchicago.edu/oeconomica/metrics-game/) / *2016*  
-  * \- [2015 Econometrics Game][1] / 2nd Place Team [[Event description]](https://voices.uchicago.edu/oeconomica/metrics-game/) / *2015*
+  * \- [2016 Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/) / 2nd Place [[pdf]][2]  / *2016*  
+  * \- [2015 Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/) / 2nd Place [[pdf]][1] / *2015*
 * **-- Miscellaneous**
   * \- [Statistics X (iOS app)](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8) / Content developer for [Knowvio](http://knowvio.org/) / *2016*
-  * \- [Flappy Bird Analysis][5] / Gamer and analyst / *2014* 
+  * \- [Flappy Bird Analysis][5] / *2014* 
 
 [1]:{{ site.baseurl }}/files/Metrics_Game_Paper_2015.pdf   
 [2]:{{ site.baseurl }}/files/Metrics_Game_Paper_2016.pdf 
