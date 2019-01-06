@@ -18,8 +18,17 @@ ol {
 }
 
 ul li {
-  list-style-type: none;         // Change to hide bullets
-  padding-left: $base_spacing;
+  list-style-type: none;         // Change to hide bullets for unordered lists
+}
+
+ul {
+  padding-left: $small-spacing;
+  margin-bottom: $small-spacing;
+}
+
+ol {
+  list-style-type: decimal; 
+  padding-left: $base-spacing;
   margin-bottom: $small-spacing;
 }
 
