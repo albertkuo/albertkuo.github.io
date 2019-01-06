@@ -63,6 +63,8 @@ a {
 
 a.footer{
   color:$light-gray-color;
+  text-decoration: none;
+  transition: color 300ms linear;
   
   &:active,
   &:focus,
