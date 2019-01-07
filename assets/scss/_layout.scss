@@ -117,6 +117,15 @@ hr {
         border-color: darken($light-gray-color, 25%);
     }
   }
+
+  a.current {
+    color: darken($primary-color, 25%);
+    border-color: darken($light-gray-color, 25%);
+  }
+
+  a.title {
+    border-bottom: none;
+  }
 }
 
 .navbar {
