@@ -10,3 +10,4 @@ I am a 2nd year PhD student in the [Department of Biostatistics](https://www.jhs
 I received my bachelor's in math and statistics from the University of Chicago in 2016. In my free time, you are likely to find me reading, gaming, or watching tennis. 
 
 [1]:{{ site.baseurl }}/files/me.jpg = 250x
+
