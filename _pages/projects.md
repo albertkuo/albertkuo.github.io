@@ -4,6 +4,8 @@ title: projects
 permalink: /projects
 ---
 
+[//]: # "<i class="fab fa-github"></i> <a href = "https://github.com/albertkuo">Github</a>"
+
 Prior to joining the biostatistics PhD program at Johns Hopkins, I did some research in quantitative marketing and computational biology.
 
 * **-- Advertising Effects on Consumer Demand** / *2016 - 2017*
