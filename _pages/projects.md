@@ -6,10 +6,10 @@ permalink: /projects
 
 [//]: # "<i class="fab fa-github"></i> <a href = "https://github.com/albertkuo">Github</a>"
 
-Prior to joining the biostatistics PhD program at Johns Hopkins, I did some research in quantitative marketing and computational biology.
+Before joining the biostatistics PhD program at Johns Hopkins, I did some research in quantitative marketing and computational biology.
 
 * **-- Advertising Effects on Consumer Demand** / *2016 - 2017*
-  * As a research assistant, I worked on a project investigating the effects of TV advertising on consumer purchases using regression discontinuities with [G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch) and [Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro) at the University of Chicago Booth School of Business. I created a pipeline to clean and build the data for analysis. [[code]](https://github.com/albertkuo/ra_booth)
+  * As a research assistant for [G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch) and [Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro) at the University of Chicago Booth School of Business, I worked on a project investigating the effects of TV advertising on consumer purchases using regression discontinuities. I created a pipeline to clean and build the data for analysis. [[code]](https://github.com/albertkuo/ra_booth)
 
 * **-- Enhancer Prediction and Feature Ranking** / *2015*
   * I was a participant in the 2015 [DIMACS REU](http://reu.dimacs.rutgers.edu/) summer program at Rutgers University. Under the mentorship of [Kevin Chen](https://genfaculty.rutgers.edu/kcchen/home), I analyzed epigenetic data and used various machine learning algorithms to identify enhancers. [[pdf]][3][[code]](https://github.com/albertkuo/dimacs)
