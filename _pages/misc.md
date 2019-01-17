@@ -14,10 +14,4 @@ I also keep a [reading blog](https://albertandkevin.wordpress.com/) with my frie
 2. *The New Jim Crow* by Michelle Alexander
 3. *A Little Life* by Hanya Yanagihara
 
-I watch a lot of tennis. Just for kicks (and the remote possibility of inspiring someone to start watching tennis), here are some of my favorite tennis matches over the years:
-
-1. [Federer - Nadal 2008 Wimbledon Final](https://youtu.be/f8YEiCAPAbg): Arguably the greatest match of all time.
-2. [Federer - Nadal 2009 Australian Open Final](https://youtu.be/zZO7saJQRxw): High-level tennis in an emotional match.
-3. [Radwanska - Kvitova 2015 WTA Finals](https://youtu.be/6c9OCIRUnHI): The magician at her best.
-4. [Federer - Nadal 2017 Australian Open Final](https://youtu.be/9gUvgm23qMU): The history, the rivalry, the comeback!
-5. [Hsieh - Kerber 2018 Australian Open 4R](https://youtu.be/bMR2UuLu_gs): Simply brilliant from Hsieh.
+I watch a lot of tennis. [Here](https://youtu.be/f8YEiCAPAbg) [are](https://youtu.be/zZO7saJQRxw) [some of](https://youtu.be/6c9OCIRUnHI) [my favorite](https://youtu.be/9gUvgm23qMU) [matches](https://youtu.be/bMR2UuLu_gs).
