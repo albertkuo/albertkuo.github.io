@@ -9,8 +9,10 @@ permalink: /projects
 Before joining the biostatistics PhD program at Johns Hopkins, I did some research in quantitative marketing and computational biology.
 
 * — **Advertising Effects on Consumer Demand** / *2016 - 2017*
+  * Mentors: [G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch), [Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro)
   * I worked on a project at the University of Chicago Booth School of Business investigating the effects of TV advertising on consumer purchases using regression discontinuities. [[code]](https://github.com/albertkuo/ra_booth)
 * — **Enhancer Prediction and Feature Ranking** / *2015*
+  * Mentor: [Kevin Chen](https://genfaculty.rutgers.edu/kcchen/home)
   * As a [DIMACS REU](http://reu.dimacs.rutgers.edu/) participant at Rutgers University, I analyzed epigenetic data and used various machine learning models to identify enhancers. [[pdf]][3][[code]](https://github.com/albertkuo/dimacs)
 
 <br>
