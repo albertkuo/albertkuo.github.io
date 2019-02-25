@@ -8,11 +8,12 @@ permalink: /projects
 
 Before joining the biostatistics PhD program at Johns Hopkins, I did some research in quantitative marketing and computational biology.
 
-* **-- Advertising Effects on Consumer Demand** / *2016 - 2017*
-  * As a research assistant for [G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch) and [Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro) at the University of Chicago Booth School of Business, I worked on a project investigating the effects of TV advertising on consumer purchases using regression discontinuities. I created a pipeline to clean and build the data for analysis. [[code]](https://github.com/albertkuo/ra_booth)
-
-* **-- Enhancer Prediction and Feature Ranking** / *2015*
-  * I was a participant in the 2015 [DIMACS REU](http://reu.dimacs.rutgers.edu/) summer program at Rutgers University. Under the mentorship of [Kevin Chen](https://genfaculty.rutgers.edu/kcchen/home), I analyzed epigenetic data and used various machine learning algorithms to identify enhancers. [[pdf]][3][[code]](https://github.com/albertkuo/dimacs)
+* — **Advertising Effects on Consumer Demand** / Research assistant / *2016 - 2017*
+  * *Mentors: [G&uuml;nter Hitsch](https://www.chicagobooth.edu/faculty/directory/h/gunter-j-hitsch), [Bradley Shapiro](https://www.chicagobooth.edu/faculty/directory/s/bradley-shapiro)*
+  * I worked on a project at the University of Chicago Booth School of Business investigating the effects of TV advertising on consumer purchases using regression discontinuities. [[code]](https://github.com/albertkuo/ra_booth)
+* — **Enhancer Prediction and Feature Ranking** /  [DIMACS REU](http://reu.dimacs.rutgers.edu/) / *2015*
+  * *Mentor: [Kevin Chen](https://genfaculty.rutgers.edu/kcchen/home)*
+  * As an REU participant at Rutgers University, I analyzed epigenetic data and used various machine learning models to identify enhancers. [[pdf]][3][[code]](https://github.com/albertkuo/dimacs)
 
 <br>
 
