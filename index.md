@@ -3,7 +3,16 @@ layout: index
 title: Home
 ---
 
-<img src="{{ site.baseurl }}/files/me.jpg" alt="me.jpg" style="float: right; width: 240px; margin-left: 24px; margin-bottom: 12px; border: #999 4px solid"/>
+<figure style="float: right; width: 240px; margin-left: 24px; margin-bottom: 6px">
+	<img src="{{ site.baseurl }}/files/me.jpg" alt="me.jpg" style="border: #ccc 4px solid; vertical-align: middle;"/>
+	<figcaption style="text-align: center; font-size: x-large">
+        <a href="mailto:albertkuo@jhu.edu"><i class="fas fa-envelope-square"></i></a>
+        &#183; 
+    	<a href="https://github.com/albertkuo"><i class="fab fa-github"></i></a>
+        &#183; 
+        <a href="https://www.linkedin.com/in/albertokuo/"><i class="fab fa-linkedin"></i></a>
+    </figcaption>
+</figure>
 
 I am a 2nd year PhD student in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at Johns Hopkins University. Currently, I am working on developing statistical methods to estimate the risk of cancer and other diseases as a research assistant for [Cristian Tomasetti](https://cristiantomasetti.com). 
 
