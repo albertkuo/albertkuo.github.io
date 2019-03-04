@@ -1,0 +1,23 @@
+{% if page.mathjax %}
+ <script type="text/x-mathjax-config">
+     MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+       MathJax.InputJax.TeX.prefilterHooks.Add(function (data) {
+         data.math = data.math.replace(/^\s*<!\[CDATA\[\s*(.*)\s*\]\]> 
+\s*$/m,"$1");
+       });
+     });
+     </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+{% endif %}
