@@ -5,41 +5,13 @@
     <description> Kuo</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Mar 2019 17:49:14 -0500</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2019 17:49:14 -0500</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2019 17:52:42 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2019 17:52:42 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Sample post</title>
-        <description>&lt;p&gt;This guide is inspired by Daniel Seita’s &lt;a href=&quot;https://danieltakeshi.github.io/2017/05/06/mathematical-tricks-commonly-used-in-machine-learning-and-statistics&quot;&gt;Mathematical Tricks Commonly Used in Machine Learning and Statistics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Borel-Cantelli Lemmas (?)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bounding the Union&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cauchy-Schwarz Inequality&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Convergence Theorems&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;A “last step” in many proofs is to take the limit inside the integral:&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;script type=&quot;math/tex; mode=display&quot;&gt;\lim_{n \rightarrow \infty} \int X_n d\mu = \int \lim_{n \rightarrow \infty} X_n d\mu \\&lt;/script&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(An equivalent formulation is $\lim_{n \rightarrow \infty} E(X_n) = E(\lim_{n \rightarrow \infty} X_n)$.)&lt;/p&gt;
-
-&lt;ul&gt;
+        <description>&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;This is true under three scenarios:&lt;/p&gt;
 
@@ -94,8 +66,8 @@ A &amp;= B \\
 
 </description>
         <pubDate>Wed, 03 May 2017 15:06:00 -0400</pubDate>
-        <link>http://localhost:4000/Tips-and-Tricks-for-Statistical-Proofs/</link>
-        <guid isPermaLink="true">http://localhost:4000/Tips-and-Tricks-for-Statistical-Proofs/</guid>
+        <link>http://localhost:4000/test-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/test-post/</guid>
         
         <category>sample</category>
         
