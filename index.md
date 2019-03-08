@@ -6,7 +6,7 @@ title: Home
 
 
 <figure style="float: right; width: 240px; margin-left: 24px; margin-bottom: 6px">
-	<img src="{{ site.baseurl }}/files/me.jpg" alt="me.jpg" style="border: #ccc 4px solid"/>
+	<img src="{{ site.baseurl }}/files/me.jpg" alt="me.png" style="border: #ccc 4px solid"/>
 	<figcaption style="text-align: center; font-size: x-large">
         <a href="mailto:albertkuo@jhu.edu"><i class="fas fa-envelope-square"></i></a>
         &#183; 
