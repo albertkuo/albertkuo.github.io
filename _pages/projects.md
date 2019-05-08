@@ -20,6 +20,8 @@ Before joining the biostatistics PhD program at Johns Hopkins, I did some resear
 Projects I have worked on under less formal settings in classes, competitions, etc. are listed below.
 
 * **-- Class Projects**
+  * \- [Patterns in LA Health Code Violations][9] / PH.140.753 Advanced Methods in Biostatistics III / *2019* 
+  * \- [Effect of Sunday Alcohol Sales on DUIs][8] / PH.140.753 Advanced Methods in Biostatistics III / *2019* 
   * \- [Predicting Finish Placements in PUBG](https://pubg-prediction.github.io/project/) / PH.140.711 Advanced Data Science / *2018* 
   * \- [2018 Senate Election Predictions][7] / PH.140.711 Advanced Data Science / *2018*
   * \- [Predicting Kickstarter Success][6] / TTIC 31190 Natural Language Processing / *2016* 
@@ -37,3 +39,5 @@ Projects I have worked on under less formal settings in classes, competitions, e
 [5]:{{ site.baseurl }}/files/Flappy_Bird_2016.pdf
 [6]:{{ site.baseurl }}/files/Kickstarter_Project.pdf
 [7]:{{ site.baseurl }}/files/Senate_Election_2018.html
+[8]:{{ site.baseurl }}/files/Methods_Project_1.pdf
+[9]:{{ site.baseurl }}/files/Methods_Project_2.pdf
