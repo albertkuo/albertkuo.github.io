@@ -15,11 +15,11 @@ title: Home
         <a href="https://www.linkedin.com/in/albertokuo/"><i class="fab fa-linkedin"></i></a>
     </figcaption>
 </figure>
-I am a 2nd year PhD student in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at Johns Hopkins University. I received my bachelor's in math and statistics from the University of Chicago in 2016. 
+I am a 3rd year PhD student in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/index.html) at Johns Hopkins University. I received my bachelor's in math and statistics from the University of Chicago in 2016. 
 
-Currently, I am working on developing statistical methods for cancer etiology and risk estimation as a research assistant for [Cristian Tomasetti](https://cristiantomasetti.com).
+Currently, I am working on developing statistical methods for cancer etiology and risk prediction as a research assistant for [Cristian Tomasetti](https://cristiantomasetti.com).
 
-In my free time, I [blog](https://blog.albertkuo.me) about a range of technical (and non-technical) topics related to statistics, computing, and PhD life. I also [read](https://albertandkevin.wordpress.com/) fairly regularly, [write fiction](https://www.amazon.com/Watersilk-Albert-Kuo/dp/1540777790) on occasion, and play violin in the [Hopkins Concert Orchestra](https://studentaffairs.jhu.edu/hso) and the chamber music ensemble [Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
+In my free time, I [blog](https://blog.albertkuo.me) about a range of technical (and non-technical) topics related to statistics, computing, and PhD life. I also [read](https://albertandkevin.wordpress.com/) fairly regularly, [write fiction](https://www.amazon.com/Watersilk-Albert-Kuo/dp/1540777790) on occasion, and play violin in the [Hopkins Concert Orchestra](https://studentaffairs.jhu.edu/hso) and the [Hopkins Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
 
 [1]:{{ site.baseurl }}/files/me.jpg = 250x
 
