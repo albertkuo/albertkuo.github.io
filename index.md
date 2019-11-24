@@ -17,7 +17,7 @@ title: Home
 </figure>
 I am a biostatistics PhD student at the Johns Hopkins Bloomberg School of Public Health. I work with [Cristian Tomasetti](https://cristiantomasetti.com) to develop statistical methods for the early detection of cancer, modeling of carcinogenesis, and risk prediction. I received my bachelor's in math and statistics from the University of Chicago. 
 
-In my free time, I [blog](https://blog.albertkuo.me) about statistics, computing, and PhD life. I also write [book reviews](https://albertandkevin.wordpress.com/) and [fiction](https://www.amazon.com/author/albertkuo), and play music in the [Hopkins Orchestra](https://studentaffairs.jhu.edu/hso) and the [Hopkins Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
+In my free time, I [blog](https://blog.albertkuo.me) about statistics, computing, and PhD life. I also write [book reviews](https://albertandkevin.wordpress.com/) and [fiction](https://www.amazon.com/author/albertkuo) and play music in the [Hopkins Orchestra](https://studentaffairs.jhu.edu/hso) and the [Hopkins Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
 
 [1]:{{ site.baseurl }}/files/me.jpg = 250x
 
