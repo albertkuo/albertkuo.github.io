@@ -16,8 +16,8 @@ permalink: /projects
   * \- Advertising Effects on Consumer Demand [[code]](https://github.com/albertkuo/ra_booth) / [Booth School of Business](https://www.chicagobooth.edu/) / *2016 - 2017*
   * \- [Enhancer Prediction and Feature Ranking][3] [[code]](https://github.com/albertkuo/dimacs) / [DIMACS REU](http://reu.dimacs.rutgers.edu/) / *2015*
 * **-- Competitions**
-  * \- [2016 UChicago Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/) / 2nd Place [[pdf]][2]  / *2016*  
-  * \- [2015 UChicago Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/) / 2nd Place [[pdf]][1] / *2015*
+  * \- [Economic Assimilation of Immigrants][2] / [2016 UChicago Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/), 2nd Place  / *2016*  
+  * \- [Obesity and Health Care Costs][1] / [2015 UChicago Econometrics Game](https://voices.uchicago.edu/oeconomica/metrics-game/), 2nd Place  / *2015*
 * **-- Miscellaneous**
   * \- [Statistics X (iOS app)](https://itunes.apple.com/us/app/statistics-x-college-ap-stats/id1087170766?mt=8) / Knowvio / *2016*
   * \- [Flappy Bird Analysis][5] / *2014 (updated in 2016)* 
