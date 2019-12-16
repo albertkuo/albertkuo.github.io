@@ -264,12 +264,11 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon (~> 4.2, >= 4.2.6)
-  ffi (= 1.9.24)
   github-pages
   html-proofer
   jekyll (~> 3.0, >= 3.0.1)
   jekyll-paginate (~> 1.1)
-  nokogiri (= 1.8.2)
+  jekyll-seo-tag
   pygments.rb (~> 0.6.3)
   sass (~> 3.4, >= 3.4.20)
 
