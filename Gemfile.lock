@@ -218,7 +218,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.8.2)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -268,7 +268,6 @@ DEPENDENCIES
   html-proofer
   jekyll (~> 3.0, >= 3.0.1)
   jekyll-paginate (~> 1.1)
-  jekyll-seo-tag
   pygments.rb (~> 0.6.3)
   sass (~> 3.4, >= 3.4.20)
 
