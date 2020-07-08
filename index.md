@@ -8,7 +8,7 @@ title: Home
 <figure style="float: right; width: 240px; margin-left: 24px; margin-bottom: 6px">
 	<img src="{{ site.baseurl }}/files/me.png" alt="me.png" style="border: #ccc 4px solid"/>
 	<figcaption style="text-align: center; font-size: x-large">
-        <a href="mailto:albertkuo@jhu.edu"><i class="fas fa-envelope-square"></i></a>
+        <a class="mailtoui" href="mailto:albertkuo@jhu.edu"><i class="fas fa-envelope-square"></i></a>
         &#183; 
     	<a href="https://github.com/albertkuo"><i class="fab fa-github"></i></a>
         &#183; 
