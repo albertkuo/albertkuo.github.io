@@ -50,7 +50,7 @@ p {
 }
 
 a {
-  color: $blue-gray-color;
+  color: $blue-color;
   word-break: break-word;
   text-decoration: none;
   //transition: color 300ms linear;
@@ -58,7 +58,7 @@ a {
   &:active,
   &:focus,
   &:hover {
-    color: $blue-color;
+    color: $blue-link-color;
     text-decoration: underline;
   }
 }
