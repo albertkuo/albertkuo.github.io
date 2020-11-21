@@ -7,13 +7,14 @@ permalink: /projects
 [//]: # "<i class="fab fa-github"></i> <a href = "https://github.com/albertkuo">Github</a>"
 
 * **-- Research Projects**
-  * \- ongoing work!
+  * \- ongoing work
 * **-- Data Science Projects**
+	* \- [Probability of Winning an NBA Game](https://blog.albertkuo.me/post/probability-of-winning-an-nba-game-a-minute-by-minute-breakdown) [[Shiny app]](https://albertkuo.shinyapps.io/nba_comeback/) / *2020*
 	* \- [Effect of Increasing Voter Turnout in the U.S. Presidential Election](https://blog.albertkuo.me/post/effect-of-increasing-voter-turnout-in-the-u-s/) / *2020*
 	* \- [Predicting Finish Placements in PUBG](https://pubg-prediction.github.io/project/) / *2018* 
   * \- [2018 Senate Election Predictions][7] / *2018*
-  * \- [Flappy Bird Scores Analysis][5] / *2014 (updated in 2016)* 
-* **-- Statistics/ML Class Projects**
+  * \- [Flappy Bird Scores Analysis][5] / *2016* 
+* **-- Class Projects**
   * \- [Patterns in LA Health Code Violations][9] / Advanced Methods in Biostatistics (PH.140.753) / *2019* 
   * \- [Effect of Sunday Alcohol Sales on DUIs][8] / Advanced Methods in Biostatistics (PH.140.753) / *2019* 
   * \- [Predicting Success of Kickstarter Projects with NLP][6] / Natural Language Processing (TTIC 31190) / *2016* 
