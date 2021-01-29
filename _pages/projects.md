@@ -10,7 +10,7 @@ permalink: /projects
 
   * **Supervised mutational signatures for etiological factors in cancer** [[paper]](https://doi.org/10.7554/elife.61082)[[R package]](https://tomasettilab.github.io/supersigs/index.html) 
   * - Determining the etiologic basis of the mutations responsible for cancer is one of the fundamental challenges in modern cancer research. Different mutational processes induce different types of DNA mutations, providing "mutational signatures" that have led to key insights into cancer etiology. We propose a supervised machine learning technique to identify signatures, called SuperSigs.
-  * - Afsari, B.*, **Kuo, A.**\*, Zhang, Y., Li, L., Lahouel, K., Danilova, L., Favorov, A., Rosenquist, T. A., Grollman, A. P., Kinzler, K. W., Cope, L., Vogelstein, B., & Tomasetti, C. (2021). Supervised mutational signatures for obesity and other tissue- specific etiological factors in cancer. ELife, 10.
+  * - Afsari, B.*, **Kuo, A.**\*, Zhang, Y., Li, L., Lahouel, K., Danilova, L., Favorov, A., Rosenquist, T. A., Grollman, A. P., Kinzler, K. W., Cope, L., Vogelstein, B., & Tomasetti, C. (2021). Supervised mutational signatures for obesity and other tissue-specific etiological factors in cancer. ELife, 10.
   * - \* *co-first author*
 
 * **-- Data Science Projects**
