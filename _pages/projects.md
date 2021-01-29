@@ -7,7 +7,11 @@ permalink: /projects
 [//]: # "<i class="fab fa-github"></i> <a href = "https://github.com/albertkuo">Github</a>"
 
 * **-- Research Projects**
-  * \- ongoing work
+
+  * **Supervised mutational signatures for etiological factors in cancer** [[paper]](https://doi.org/10.7554/elife.61082)[[R package]](https://tomasettilab.github.io/supersigs/index.html) / 2021
+  * - Determining the etiologic basis of the mutations responsible for cancer is one of the fundamental challenges in modern cancer research. Different mutational processes induce different types of DNA mutations, providing "mutational signatures" that have led to key insights into cancer etiology. We propose a supervised machine learning technique to identify signatures, called SuperSigs.
+  * - Afsari, B.*, **Kuo, A.**\*, Zhang, Y., Li, L., Lahouel, K., Danilova, L., Favorov, A., Rosenquist, T. A., Grollman, A. P., Kinzler, K. W., Cope, L., Vogelstein, B., & Tomasetti, C. (2021). Supervised mutational signatures for obesity and other tissue- specific etiological factors in cancer. ELife, 10.
+  * - \* *co-first author*
 
 * **-- Data Science Projects**
 	* \- [Probability of Winning an NBA Game](https://blog.albertkuo.me/post/probability-of-winning-an-nba-game-a-minute-by-minute-breakdown) [[Shiny app]](https://albertkuo.shinyapps.io/nba_comeback/) / *2020*
