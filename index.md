@@ -13,7 +13,7 @@ title: Home
 
 I am a biostatistics PhD candidate at the Johns Hopkins Bloomberg School of Public Health. I work with [Cristian Tomasetti](https://cristiantomasetti.com) in the field of cancer genomics to develop statistical methods for the early detection of cancer and to model carcinogenesis. I also work with [Stephanie Hicks](https://www.stephaniehicks.com/) to analyze single nucleus RNA sequencing data. Previously, I received my bachelor's in math and statistics from the University of Chicago. 
 
-In my free time, I [blog](https://blog.albertkuo.me) about statistics, computing, and PhD life. I also play music in the [Hopkins Orchestra](https://studentaffairs.jhu.edu/hso) and the [Hopkins Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
+In my free time, I enjoy [blogging](https://blog.albertkuo.me) about statistics, computing, and PhD life, and playing music in the [Hopkins Orchestra](https://studentaffairs.jhu.edu/hso) and the [Hopkins Bloombachs](https://www.facebook.com/groups/bloombachsathopkins). 
 
 [1]:{{ site.baseurl }}/files/me.jpg = 250x
 
