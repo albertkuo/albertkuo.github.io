@@ -20,13 +20,7 @@ permalink: /projects
   * \- [Predicting Finish Placements in PUBG](https://pubg-prediction.github.io/project/) / *2018* 
   * \- [Flappy Bird Statistical Analysis][5] / *2016* 
 
-[1]:{{ site.baseurl }}/files/Metrics_Game_Paper_2015.pdf   
-[2]:{{ site.baseurl }}/files/Metrics_Game_Paper_2016.pdf 
+
 [3]:{{ site.baseurl }}/files/DIMACS_Final_Report.pdf
-[4]:{{ site.baseurl }}/files/Flappy_Bird_2014.pdf
 [5]:{{ site.baseurl }}/files/Flappy_Bird_2016.pdf
-[6]:{{ site.baseurl }}/files/Kickstarter_Project.pdf
-[7]:{{ site.baseurl }}/files/Senate_Election_2018.html
-[8]:{{ site.baseurl }}/files/Methods_Project_1.pdf
-[9]:{{ site.baseurl }}/files/Methods_Project_2.pdf
 
