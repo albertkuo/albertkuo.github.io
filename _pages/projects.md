@@ -6,6 +6,8 @@ permalink: /projects
 
 [//]: # "<i class="fab fa-github"></i> <a href = "https://github.com/albertkuo">Github</a>"
 
+A list of publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=A8IjkcYAAAAJ).
+
 * **-- PhD Research**
   * **Supervised mutational signatures for etiological factors in cancer** [[paper]](https://doi.org/10.7554/elife.61082)[[press release]](https://www.hopkinsmedicine.org/news/newsroom/news-releases/researchers-develop-new-method-for-identifying-mutational-signatures-in-cancer)[[R package]](https://tomasettilab.github.io/supersigs/index.html)
   * - Determining the etiologic basis of the mutations responsible for cancer is one of the fundamental challenges in modern cancer research. Different mutational processes induce different types of DNA mutations, providing "mutational signatures" that have led to key insights into cancer etiology. We propose a supervised machine learning technique to identify signatures, called SuperSigs.
