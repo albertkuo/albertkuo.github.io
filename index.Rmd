@@ -1,0 +1,21 @@
+---
+title: "Albert Kuo"
+image: "me_square.png"
+links:
+  - label: Blog
+    url: "https://blog.albertkuo.me"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/albertkuo22/"
+  - label: Twitter
+    url: "https://twitter.com/albert_kuo"
+  - label: GitHub
+    url: "https://github.com/albertkuo"
+output:
+  postcards::jolla
+---
+
+I am a 5th year biostatistics PhD student at [Johns Hopkins University](https://www.jhu.edu/),
+working with [Cristian Tomasetti](https://www.cristiantomasetti.com/) and 
+[Stephanie Hicks](https://www.stephaniehicks.com/) to develop statistical methods in
+the fields of cancer and genomics. I previously received my bachelor's in
+math and statistics from the [University of Chicago](https://www.uchicago.edu/).
