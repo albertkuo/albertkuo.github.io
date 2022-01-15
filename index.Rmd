@@ -30,5 +30,4 @@ In my free time, I enjoy writing on my [blog](https://blog.albertkuo.me/), readi
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-98438367-1');
-</script>
+  gtag('config', 'UA-98438367-1')
