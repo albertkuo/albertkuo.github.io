@@ -17,7 +17,18 @@ output:
 I am a 5th year biostatistics PhD student at [Johns Hopkins University](https://www.jhu.edu/),
 working with [Cristian Tomasetti](https://www.cristiantomasetti.com/) and 
 [Stephanie Hicks](https://www.stephaniehicks.com/) to develop statistical methods in
-the fields of cancer and genomics. I previously received my bachelor's in
-math and statistics from the [University of Chicago](https://www.uchicago.edu/) in 2016.
+the fields of cancer and genomics. Previously, I interned at Amazon as a data scientist
+in 2021 and received my bachelor's in math and statistics from the 
+[University of Chicago](https://www.uchicago.edu/) in 2016.
 
-In my free time, I enjoy writing on my [blog](https://blog.albertkuo.me/) and making music.
+In my free time, I enjoy writing on my [blog](https://blog.albertkuo.me/), reading, and playing music.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98438367-1');
+</script>
