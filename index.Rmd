@@ -4,12 +4,17 @@ image: "me_square.png"
 links:
   - label: Blog
     url: "https://blog.albertkuo.me"
+  - label: GitHub
+    url: "https://github.com/albertkuo"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=A8IjkcYAAAAJ&hl=en"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/albertkuo22/"
   - label: Twitter
     url: "https://twitter.com/albert_kuo"
-  - label: GitHub
-    url: "https://github.com/albertkuo"
+
+
+
 output:
   postcards::jolla
 ---
