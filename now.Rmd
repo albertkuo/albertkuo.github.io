@@ -1,9 +1,9 @@
 ---
-title: "Albert Kuo"
+title: "What I'm Working On Now"
 image: "blank.png"
 
 output:
-  postcards::solana
+  postcards::solana_mine
 ---
 
 Hi! You have found my secret "[Now](https://nownownow.com/about)" page. Click [here](https://www.albertkuo.me) to return to my homepage. 
