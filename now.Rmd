@@ -1,15 +1,6 @@
 ---
 title: "Albert Kuo"
 image: "blank.png"
-links:
-  - label: Blog
-    url: "https://blog.albertkuo.me"
-  - label: GitHub
-    url: "https://github.com/albertkuo"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/albertkuo22/"
-  - label: Twitter
-    url: "https://twitter.com/albert_kuo"
 
 output:
   postcards::solana
