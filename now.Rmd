@@ -1,0 +1,36 @@
+---
+title: "Albert Kuo"
+image: "blank.png"
+links:
+  - label: Blog
+    url: "https://blog.albertkuo.me"
+  - label: GitHub
+    url: "https://github.com/albertkuo"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/albertkuo22/"
+  - label: Twitter
+    url: "https://twitter.com/albert_kuo"
+
+output:
+  postcards::solana
+---
+
+Hi! You have found my secret "[Now](https://nownownow.com/about)" page. Click [here](https://www.albertkuo.me) to return to my homepage. 
+
+I'm currently working on the following things:
+
+* Finishing my PhD thesis
+* Writing on my [blog](https://blog.albertkuo.me)
+* Exercising & cooking
+
+*Last updated March 10th, 2022.*
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98438367-1');
+</script>
