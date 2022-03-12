@@ -20,7 +20,7 @@ I am a 5th year biostatistics PhD student at Johns Hopkins University working wi
 the fields of cancer and genomics. Previously, I interned at Amazon as a data scientist
 in 2021 and received my bachelor's in mathematics and statistics from the University of Chicago in 2016.
 
-In my free time, I enjoy writing on my [blog](https://blog.albertkuo.me/), reading, and playing music[.](https://www.albertkuo.me/now)
+In my free time, I enjoy writing on my [blog](https://blog.albertkuo.me/), reading, and playing music[.](/now)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
