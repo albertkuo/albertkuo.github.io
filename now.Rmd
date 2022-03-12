@@ -6,7 +6,7 @@ output:
   postcards::solana_mine
 ---
 
-Hi! You have found my secret "[Now](https://nownownow.com/about)" page. Click [here](https://www.albertkuo.me) to return to my homepage. 
+Hi! You have found my secret "[Now](https://nownownow.com/about)" page. Click [here](/) to return to my homepage. 
 
 I'm currently working on the following things:
 
