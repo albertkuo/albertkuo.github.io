@@ -6,15 +6,15 @@ output:
   postcards::solana_mine
 ---
 
-Hi! You have found my secret "[Now](https://nownownow.com/about)" page. Click [here](/) to return to my homepage. 
+Hi! You have found my secret "[Now](https://nownownow.com/about)" page! Click [here](/) to return to the homepage. 
 
-I'm currently working on the following things:
+**What I'm Working On These Days**
 
 * Finishing my PhD thesis
-* Writing on my [blog](https://blog.albertkuo.me)
-* Exercising & cooking
+* Writing for my [blog](https://blog.albertkuo.me)
+* Trying to stay healthy (exercising & cooking)
 
-*Last updated March 10th, 2022.*
+*Last updated March 11th, 2022*
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
