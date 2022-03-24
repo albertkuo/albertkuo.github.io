@@ -17,8 +17,7 @@ output:
 
 I am a 5th year biostatistics PhD student at Johns Hopkins University working with [Cristian Tomasetti](https://www.cristiantomasetti.com/) and 
 [Stephanie Hicks](https://www.stephaniehicks.com/) to develop statistical methods in
-the fields of cancer and genomics. Previously, I interned at Amazon as a data scientist
-in 2021 and received my bachelor's in mathematics and statistics from the University of Chicago in 2016.
+the fields of cancer and genomics. Previously, I interned at Amazon as a data scientist and received my bachelor's in mathematics and statistics from the University of Chicago.
 
 For fun, I like to write on my blog, read, and play music[.](/now)
 
