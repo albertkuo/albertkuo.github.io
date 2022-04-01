@@ -8,11 +8,11 @@ output:
 
 Hi! You have found my secret "[Now](https://nownownow.com/about)" page! 
 
-**What I'm Working On These Days** (last updated 3/11/2022)
+**What I'm Working On These Days** (last updated 4/1/2022)
 
 * Finishing my PhD thesis
-* Writing for my [blog](https://blog.albertkuo.me)
-* Trying to stay healthy (exercising & cooking)
+* Writing on my [blog](https://blog.albertkuo.me)
+* Staying alive by cooking & eating & exercising
 
 Click [here](/) to return to the homepage. 
 
