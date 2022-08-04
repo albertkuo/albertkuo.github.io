@@ -15,10 +15,9 @@ output:
   postcards::jolla_anim_mine
 ---
 
-I recently received my PhD in biostatistics from Johns Hopkins University, where I worked with [Cristian Tomasetti](https://www.cristiantomasetti.com/) and 
-[Stephanie Hicks](https://www.stephaniehicks.com/) to develop statistical methods and models for cancer and genomics. Previously, I interned at Amazon as a data scientist and received my bachelor's in mathematics and statistics from the University of Chicago.
+I am a data scientist in the [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies) team at Amazon. I received my PhD in biostatistics from Johns Hopkins University, where I worked on statistical/ML methods and models for cancer and genomics. Prior to joining Johns Hopkins, I received my bachelor's in mathematics and statistics from the University of Chicago.
 
-For fun, I like to write on my blog, read, and play music[.](/now)
+For fun, I like to write on my blog, read, and play music.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
