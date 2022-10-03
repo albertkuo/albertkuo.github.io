@@ -15,7 +15,7 @@ output:
   postcards::jolla_anim_mine
 ---
 
-I am a data scientist in the [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies) team at Amazon. I received my PhD in biostatistics from Johns Hopkins University, where I worked on statistical/ML methods and models for cancer and genomics. Prior to joining Johns Hopkins, I received my bachelor's in mathematics and statistics from the University of Chicago.
+I am a data scientist in the [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies) team at Amazon. I received my PhD in biostatistics from Johns Hopkins University, where I worked on statistical/ML methods and models for cancer and genomics. Previously, I received my bachelor's in mathematics and statistics from the University of Chicago.
 
 For fun, I like to write on my blog, read, and play music.
 
