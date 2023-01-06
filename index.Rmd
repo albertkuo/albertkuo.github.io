@@ -20,11 +20,12 @@ I am a data scientist in the [SCOT](https://www.amazon.science/tag/supply-chain-
 For fun, I like to write on my blog, read, and play music.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98438367-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-77MX3CP5RY"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-98438367-1');
+  gtag('config', 'G-77MX3CP5RY');
 </script>
