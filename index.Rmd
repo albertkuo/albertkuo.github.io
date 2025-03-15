@@ -12,10 +12,10 @@ links:
     url: "https://twitter.com/albert_kuo"
 
 output:
-  postcards::jolla_anim_mine
+  postcards::jolla_anime_mine
 ---
 
-I am a data scientist in the [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies) team at Amazon. Previously, I received my PhD in biostatistics from Johns Hopkins University, where I worked on developing statistical/ML methods for applications in cancer and genomics research. I received my bachelor's degree in mathematics and statistics from the University of Chicago.
+I am an applied scientist at Amazon. Previously, I received my PhD in biostatistics from Johns Hopkins University, where I worked on developing statistical/ML methods for applications in cancer and genomics research. I received my bachelor's degree in mathematics and statistics from the University of Chicago.
 
 For fun, I like to write on my [blog](https://blog.albertkuo.me/), read, and play music.
 
